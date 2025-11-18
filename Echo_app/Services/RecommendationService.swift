@@ -9,12 +9,18 @@
 import Foundation
 import NaturalLanguage
 
+/// Template structure for bilingual recommendations
+struct Template: Codable {
+    let en: String
+    let ko: String
+}
+
 /// Service responsible for generating template-based smart recommendations
 /// Based on SRS Section 4.3 - Template-Based Smart Recommendations
 final class RecommendationService {
     static let shared = RecommendationService()
 
-    private var templates: [Emotion: [String]] = [:]
+    private var templates: [Emotion: [Template]] = [:]
     private var isLoaded = false
 
     private init() {}
@@ -50,100 +56,36 @@ final class RecommendationService {
     private func loadSampleTemplates() {
         templates = [
             .achievement: [
-                "This moment of {keyword} shows your true capability.",
-                "Remember the strength it took to achieve {keyword}.",
-                "Let this {keyword} remind you what you're capable of.",
-                "You've proven yourself with {keyword}. Trust that strength.",
-                "This accomplishment isn't luck—it's the result of your effort.",
-                "Carry the confidence from this {keyword} forward.",
-                "You did it once. You can do it again.",
-                "This {keyword} is evidence of your growth.",
-                "Celebrate this win. You've earned it.",
-                "Your past self would be proud of this {keyword}."
+                Template(en: "This moment of {keyword} shows your true capability.", ko: "이 {keyword}의 순간은 당신의 진정한 능력을 보여줍니다."),
+                Template(en: "Remember the strength it took to achieve {keyword}.", ko: "{keyword}을(를) 이루는 데 필요했던 힘을 기억하세요.")
             ],
             .comfort: [
-                "You've survived challenges before. You'll survive this too.",
-                "Be gentle with yourself during {keyword}.",
-                "This difficult {keyword} is temporary. You are resilient.",
-                "Trust the process. You're stronger than you think.",
-                "It's okay to struggle. Growth isn't linear.",
-                "Remember: You wrote this when you needed to hear it.",
-                "Breathe. This moment will pass, and you will endure.",
-                "You've prepared for this {keyword}. Trust yourself.",
-                "Anxiety is not a prediction. You are capable.",
-                "Past you believed in future you. Honor that faith."
+                Template(en: "You've survived challenges before. You'll survive this too.", ko: "전에도 어려움을 극복했습니다. 이번에도 극복할 것입니다."),
+                Template(en: "Be gentle with yourself during {keyword}.", ko: "{keyword} 동안 자신에게 친절하세요.")
             ],
             .motivation: [
-                "You have everything you need to tackle {keyword}.",
-                "This {keyword} is your opportunity to grow.",
-                "Channel your energy into {keyword} and watch what happens.",
-                "Remember why you started this {keyword}.",
-                "You're capable of more than you know. Prove it with {keyword}.",
-                "Let {keyword} fuel your determination.",
-                "The best time to start was yesterday. The next best time is now.",
-                "Your future self will thank you for tackling {keyword} today.",
-                "You're not just doing {keyword}—you're becoming stronger.",
-                "Small steps toward {keyword} lead to big changes."
+                Template(en: "You have everything you need to tackle {keyword}.", ko: "{keyword}에 맞서기 위해 필요한 모든 것을 가지고 있습니다."),
+                Template(en: "This {keyword} is your opportunity to grow.", ko: "이 {keyword}는 당신이 성장할 기회입니다.")
             ],
             .gratitude: [
-                "Hold onto the feeling of {keyword}.",
-                "This {keyword} is a gift. Treasure it.",
-                "Gratitude for {keyword} amplifies joy.",
-                "Remember the warmth of {keyword} when times are tough.",
-                "You noticed {keyword}—that's mindfulness in action.",
-                "Let {keyword} remind you of what matters.",
-                "This {keyword} is proof of abundance in your life.",
-                "Appreciation for {keyword} creates more moments like this.",
-                "You took time to honor {keyword}. That's beautiful.",
-                "The simple act of recognizing {keyword} is powerful."
+                Template(en: "Hold onto the feeling of {keyword}.", ko: "{keyword}의 느낌을 간직하세요."),
+                Template(en: "This {keyword} is a gift. Treasure it.", ko: "이 {keyword}는 선물입니다. 소중히 여기세요.")
             ],
             .struggle: [
-                "You're facing {keyword} head-on. That takes courage.",
-                "This {keyword} is hard, and it's okay to acknowledge that.",
-                "Struggling with {keyword} doesn't mean you're failing.",
-                "You're learning from {keyword}, even if it doesn't feel like it.",
-                "The fact that you're still here despite {keyword} is strength.",
-                "This {keyword} is shaping you, not breaking you.",
-                "One day, this {keyword} will be a story of resilience.",
-                "You don't have to face {keyword} alone.",
-                "It's okay to rest during {keyword}. You're still making progress.",
-                "This {keyword} is temporary. You are enduring."
+                Template(en: "You're facing {keyword} head-on. That takes courage.", ko: "{keyword}에 정면으로 맞서고 있습니다. 그것은 용기가 필요한 일입니다."),
+                Template(en: "This {keyword} is hard, and it's okay to acknowledge that.", ko: "이 {keyword}는 힘듭니다. 그것을 인정해도 괜찮습니다.")
             ],
             .joy: [
-                "Savor this {keyword}!",
-                "This {keyword} is yours to celebrate.",
-                "Let the happiness from {keyword} fill you completely.",
-                "Remember how {keyword} made you feel alive.",
-                "This {keyword} is pure magic.",
-                "You created this moment of {keyword}. Well done!",
-                "The joy from {keyword} is contagious—share it!",
-                "This {keyword} is a reminder that life is beautiful.",
-                "Hold onto the lightness of {keyword}.",
-                "You deserve every bit of this {keyword}."
+                Template(en: "Savor this {keyword}!", ko: "이 {keyword}를 음미하세요!"),
+                Template(en: "This {keyword} is yours to celebrate.", ko: "이 {keyword}는 축하할 당신의 것입니다.")
             ],
             .reflection: [
-                "The insight from {keyword} will serve you well.",
-                "You learned something valuable from {keyword}.",
-                "This {keyword} helped you understand yourself better.",
-                "The wisdom from {keyword} is a gift.",
-                "You took time to reflect on {keyword}—that's growth.",
-                "This {keyword} taught you something important.",
-                "Your reflection on {keyword} shows maturity.",
-                "The lessons from {keyword} will guide your future.",
-                "You're wiser because of {keyword}.",
-                "This {keyword} is part of your evolving story."
+                Template(en: "The insight from {keyword} will serve you well.", ko: "{keyword}에서 얻은 통찰은 당신에게 큰 도움이 될 것입니다."),
+                Template(en: "You learned something valuable from {keyword}.", ko: "{keyword}에서 귀중한 것을 배웠습니다.")
             ],
             .hope: [
-                "This {keyword} is the beginning of something beautiful.",
-                "Your hope for {keyword} is powerful.",
-                "Trust the journey toward {keyword}.",
-                "This {keyword} is worth believing in.",
-                "Your optimism about {keyword} will carry you forward.",
-                "The hope you feel for {keyword} is valid and real.",
-                "This {keyword} is a seed you're planting for the future.",
-                "Believe in the possibility of {keyword}.",
-                "Your vision of {keyword} is coming into focus.",
-                "This {keyword} represents new beginnings."
+                Template(en: "This {keyword} is the beginning of something beautiful.", ko: "이 {keyword}는 아름다운 무언가의 시작입니다."),
+                Template(en: "Your hope for {keyword} is powerful.", ko: "{keyword}에 대한 당신의 희망은 강력합니다.")
             ]
         ]
         self.isLoaded = true
@@ -156,7 +98,7 @@ final class RecommendationService {
     /// Based on SRS Section 3.3 - FR-004: Smart Recommendation Generation
     /// - Parameters:
     ///   - vibe: The Vibe to generate recommendation for
-    /// - Returns: Generated recommendation string (1-2 sentences, <100 characters)
+    /// - Returns: Generated bilingual recommendation string (English + Korean)
     func generateRecommendation(for vibe: Vibe) -> String {
         guard isLoaded else {
             loadTemplates()
@@ -164,7 +106,7 @@ final class RecommendationService {
 
         // Get templates for this emotion
         guard let emotionTemplates = templates[vibe.emotion], !emotionTemplates.isEmpty else {
-            return "Remember this moment."
+            return "Remember this moment.\n이 순간을 기억하세요."
         }
 
         // Extract keywords from Vibe text
@@ -173,16 +115,24 @@ final class RecommendationService {
 
         // Select random template
         guard let template = emotionTemplates.randomElement() else {
-            return "Remember this moment."
+            return "Remember this moment.\n이 순간을 기억하세요."
         }
 
         // Insert keywords into template placeholders
-        if template.contains("{keyword}"), let keyword = keywords.first {
-            return template.replacingOccurrences(of: "{keyword}", with: keyword.lowercased())
+        let recommendationEn: String
+        let recommendationKo: String
+
+        if template.en.contains("{keyword}") || template.ko.contains("{keyword}"), let keyword = keywords.first {
+            recommendationEn = template.en.replacingOccurrences(of: "{keyword}", with: keyword.lowercased())
+            recommendationKo = template.ko.replacingOccurrences(of: "{keyword}", with: keyword.lowercased())
         } else {
             // Template has no placeholder or no keywords found
-            return template
+            recommendationEn = template.en
+            recommendationKo = template.ko
         }
+
+        // Return bilingual format (English + Korean)
+        return "\(recommendationEn)\n\(recommendationKo)"
     }
 
     // MARK: - Keyword Extraction
@@ -224,5 +174,5 @@ final class RecommendationService {
 
 // MARK: - JSON Response Structure
 private struct TemplateResponse: Codable {
-    let templates: [Emotion: [String]]
+    let templates: [Emotion: [Template]]
 }

@@ -1,164 +1,2171 @@
 {
   "quotes": [
     {
-      "id": "q001",
-      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "id": "ach_b001",
+      "textEn": "The impediment to action advances action. What stands in the way becomes the way.",
+      "textKo": "행동의 장애물이 행동을 전진시킨다. 길을 가로막는 것이 바로 길이 된다.",
       "author": "Marcus Aurelius",
+      "authorKo": "마르쿠스 아우렐리우스",
       "source": "Meditations",
-      "emotionTags": ["Struggle", "Motivation", "Reflection"],
+      "sourceKo": "명상록",
+      "emotionTags": [
+        "Achievement",
+        "Struggle"
+      ],
       "category": "Stoicism"
     },
     {
-      "id": "q002",
-      "text": "You are not your thoughts. You are the observer of your thoughts.",
-      "author": "Amit Ray",
-      "source": "Mindfulness Meditation",
-      "emotionTags": ["Comfort", "Reflection"],
-      "category": "Mindfulness"
+      "id": "ach_b002",
+      "textEn": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
+      "textKo": "일이 어렵기 때문에 감히 하지 못하는 것이 아니라, 감히 하지 않기 때문에 어려운 것이다.",
+      "author": "Seneca",
+      "authorKo": "세네카",
+      "source": "Letters from a Stoic",
+      "sourceKo": "스토아 서간집",
+      "emotionTags": [
+        "Achievement",
+        "Motivation"
+      ],
+      "category": "Stoicism"
     },
     {
-      "id": "q003",
-      "text": "What we think, we become.",
-      "author": "Buddha",
-      "source": "Buddhist Teachings",
-      "emotionTags": ["Hope", "Motivation", "Reflection"],
-      "category": "Philosophy"
+      "id": "ach_b003",
+      "textEn": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "textKo": "성공은 최종적인 것이 아니고, 실패는 치명적인 것이 아니다. 중요한 것은 계속할 용기다.",
+      "author": "Winston Churchill",
+      "authorKo": "윈스턴 처칠",
+      "source": "Speech",
+      "sourceKo": "연설",
+      "emotionTags": [
+        "Achievement",
+        "Motivation"
+      ],
+      "category": "Leadership"
     },
     {
-      "id": "q004",
-      "text": "The only way out is through.",
-      "author": "Robert Frost",
-      "source": "A Servant to Servants",
-      "emotionTags": ["Struggle", "Motivation"],
-      "category": "Literature"
+      "id": "ach_b004",
+      "textEn": "The only way to do great work is to love what you do.",
+      "textKo": "위대한 일을 하는 유일한 방법은 당신이 하는 일을 사랑하는 것이다.",
+      "author": "Steve Jobs",
+      "authorKo": "스티브 잡스",
+      "source": "Stanford Commencement Speech",
+      "sourceKo": "스탠포드 졸업 연설",
+      "emotionTags": [
+        "Achievement",
+        "Joy"
+      ],
+      "category": "Leadership"
     },
     {
-      "id": "q005",
-      "text": "Gratitude turns what we have into enough.",
-      "author": "Aesop",
-      "source": "Fables",
-      "emotionTags": ["Gratitude", "Joy"],
-      "category": "Philosophy"
+      "id": "ach_b005",
+      "textEn": "The man who moves a mountain begins by carrying away small stones.",
+      "textKo": "산을 움직이는 사람은 작은 돌을 나르는 것부터 시작한다.",
+      "author": "Confucius",
+      "authorKo": "공자",
+      "source": "Analects",
+      "sourceKo": "논어",
+      "emotionTags": [
+        "Achievement",
+        "Motivation"
+      ],
+      "category": "Eastern Philosophy"
     },
     {
-      "id": "q006",
-      "text": "You have within you right now, everything you need to deal with whatever the world throws at you.",
-      "author": "Brian Tracy",
-      "source": "Self-Development",
-      "emotionTags": ["Comfort", "Motivation", "Hope"],
+      "id": "ach_b006",
+      "textEn": "The master has failed more times than the beginner has even tried.",
+      "textKo": "대가는 초보자가 시도한 것보다 더 많이 실패했다.",
+      "author": "Stephen McCranie",
+      "authorKo": "스티븐 맥크레이니",
+      "source": "Comic Strip",
+      "sourceKo": "만화",
+      "emotionTags": [
+        "Achievement",
+        "Struggle"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "ach_b007",
+      "textEn": "It always seems impossible until it's done.",
+      "textKo": "모든 일은 해내기 전까지는 불가능해 보인다.",
+      "author": "Nelson Mandela",
+      "authorKo": "넬슨 만델라",
+      "source": "Speeches",
+      "sourceKo": "연설",
+      "emotionTags": [
+        "Achievement",
+        "Hope"
+      ],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach_b008",
+      "textEn": "Mastery is not a function of genius or talent. It is a function of time and intense focus.",
+      "textKo": "숙달은 천재성이나 재능의 문제가 아니다. 그것은 시간과 집중의 문제다.",
+      "author": "Robert Greene",
+      "authorKo": "로버트 그린",
+      "source": "Mastery",
+      "sourceKo": "마스터리",
+      "emotionTags": [
+        "Achievement",
+        "Reflection"
+      ],
       "category": "Psychology"
     },
     {
-      "id": "q007",
-      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-      "author": "Winston Churchill",
-      "source": "Speech",
-      "emotionTags": ["Achievement", "Motivation", "Struggle"],
-      "category": "Philosophy"
+      "id": "ach_b009",
+      "textEn": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "textKo": "목표를 달성함으로써 얻는 것보다, 목표를 달성함으로써 되는 사람이 더 중요하다.",
+      "author": "Zig Ziglar",
+      "authorKo": "지그 지글러",
+      "source": "Motivational Speeches",
+      "sourceKo": "동기부여 연설",
+      "emotionTags": [
+        "Achievement",
+        "Reflection"
+      ],
+      "category": "Psychology"
     },
     {
-      "id": "q008",
-      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
-      "author": "Nelson Mandela",
-      "source": "Long Walk to Freedom",
-      "emotionTags": ["Struggle", "Hope", "Achievement"],
-      "category": "Philosophy"
+      "id": "ach_b010",
+      "textEn": "The successful warrior is the average man, with laser-like focus.",
+      "textKo": "성공한 전사는 레이저처럼 집중하는 평범한 사람이다.",
+      "author": "Bruce Lee",
+      "authorKo": "이소룡",
+      "source": "Tao of Jeet Kune Do",
+      "sourceKo": "절권도의 도",
+      "emotionTags": [
+        "Achievement"
+      ],
+      "category": "Martial Arts"
     },
     {
-      "id": "q009",
-      "text": "Be yourself; everyone else is already taken.",
-      "author": "Oscar Wilde",
-      "source": "Various Works",
-      "emotionTags": ["Reflection", "Joy", "Hope"],
-      "category": "Literature"
+      "id": "ach_b011",
+      "textEn": "I am not a product of my circumstances. I am a product of my decisions.",
+      "textKo": "나는 내 환경의 산물이 아니다. 나는 내 결정의 산물이다.",
+      "author": "Stephen Covey",
+      "authorKo": "스티븐 코비",
+      "source": "The 7 Habits of Highly Effective People",
+      "sourceKo": "성공하는 사람들의 7가지 습관",
+      "emotionTags": [
+        "Achievement",
+        "Reflection"
+      ],
+      "category": "Psychology"
     },
     {
-      "id": "q010",
-      "text": "In the middle of difficulty lies opportunity.",
-      "author": "Albert Einstein",
-      "source": "Scientific Papers",
-      "emotionTags": ["Struggle", "Hope", "Motivation"],
+      "id": "ach_b012",
+      "textEn": "Strength does not come from physical capacity. It comes from an indomitable will.",
+      "textKo": "힘은 육체적 능력에서 나오는 것이 아니다. 그것은 불굴의 의지에서 나온다.",
+      "author": "Mahatma Gandhi",
+      "authorKo": "마하트마 간디",
+      "source": "Autobiography",
+      "sourceKo": "자서전",
+      "emotionTags": [
+        "Achievement",
+        "Struggle"
+      ],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach_b013",
+      "textEn": "The difference between the impossible and the possible lies in a person's determination.",
+      "textKo": "불가능과 가능의 차이는 사람의 결심에 있다.",
+      "author": "Tommy Lasorda",
+      "authorKo": "토미 라소다",
+      "source": "Coaching Philosophy",
+      "sourceKo": "코칭 철학",
+      "emotionTags": [
+        "Achievement",
+        "Motivation"
+      ],
+      "category": "Sports"
+    },
+    {
+      "id": "ach_b014",
+      "textEn": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+      "textKo": "천재성은 1%의 영감과 99%의 땀이다.",
+      "author": "Thomas Edison",
+      "authorKo": "토마스 에디슨",
+      "source": "Interview",
+      "sourceKo": "인터뷰",
+      "emotionTags": [
+        "Achievement",
+        "Motivation"
+      ],
       "category": "Science"
     },
     {
-      "id": "q011",
-      "text": "The present moment is filled with joy and happiness. If you are attentive, you will see it.",
-      "author": "Thich Nhat Hanh",
-      "source": "Peace Is Every Step",
-      "emotionTags": ["Joy", "Gratitude", "Reflection"],
+      "id": "ach_b015",
+      "textEn": "Nothing in the world can take the place of persistence.",
+      "textKo": "세상에서 끈기를 대체할 수 있는 것은 아무것도 없다.",
+      "author": "Calvin Coolidge",
+      "authorKo": "캘빈 쿨리지",
+      "source": "Speech",
+      "sourceKo": "연설",
+      "emotionTags": [
+        "Achievement",
+        "Motivation"
+      ],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach_b016",
+      "textEn": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "textKo": "삶의 가장 큰 영광은 넘어지지 않는 데 있는 것이 아니라, 넘어질 때마다 일어서는 데 있다.",
+      "author": "Nelson Mandela",
+      "authorKo": "넬슨 만델라",
+      "source": "Long Walk to Freedom",
+      "sourceKo": "자유를 향한 긴 여정",
+      "emotionTags": [
+        "Achievement",
+        "Struggle"
+      ],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach_b017",
+      "textEn": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "textKo": "우리는 반복적으로 하는 행동의 결과다. 따라서 탁월함은 행위가 아니라 습관이다.",
+      "author": "Aristotle",
+      "authorKo": "아리스토텔레스",
+      "source": "Nicomachean Ethics",
+      "sourceKo": "니코마코스 윤리학",
+      "emotionTags": [
+        "Achievement",
+        "Reflection"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ach_b018",
+      "textEn": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "textKo": "내일의 성취를 가로막는 유일한 한계는 오늘의 의심이다.",
+      "author": "Franklin D. Roosevelt",
+      "authorKo": "프랭클린 D. 루스벨트",
+      "source": "Speech",
+      "sourceKo": "연설",
+      "emotionTags": [
+        "Achievement",
+        "Hope"
+      ],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach_b019",
+      "textEn": "I find that the harder I work, the more luck I seem to have.",
+      "textKo": "열심히 일할수록 더 많은 행운이 따르는 것 같다.",
+      "author": "Thomas Jefferson",
+      "authorKo": "토마스 제퍼슨",
+      "source": "Letters",
+      "sourceKo": "서간집",
+      "emotionTags": [
+        "Achievement",
+        "Reflection"
+      ],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach_b020",
+      "textEn": "Believe you can and you're halfway there.",
+      "textKo": "할 수 있다고 믿으면 이미 절반은 이룬 것이다.",
+      "author": "Theodore Roosevelt",
+      "authorKo": "시어도어 루스벨트",
+      "source": "Speech",
+      "sourceKo": "연설",
+      "emotionTags": [
+        "Achievement",
+        "Motivation"
+      ],
+      "category": "Leadership"
+    },
+    {
+      "id": "com_b001",
+      "textEn": "You are not your thoughts. You are the observer of your thoughts.",
+      "textKo": "당신은 당신의 생각이 아닙니다. 당신은 생각을 관찰하는 자입니다.",
+      "author": "Amit Ray",
+      "authorKo": "아미트 레이",
+      "source": "Mindfulness Meditation",
+      "sourceKo": "마음챙김 명상",
+      "emotionTags": [
+        "Comfort",
+        "Reflection"
+      ],
       "category": "Mindfulness"
     },
     {
-      "id": "q012",
-      "text": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+      "id": "com_b002",
+      "textEn": "This too shall pass.",
+      "textKo": "이 또한 지나가리라.",
+      "author": "Persian Proverb",
+      "authorKo": "페르시아 속담",
+      "source": "Ancient Wisdom",
+      "sourceKo": "고대의 지혜",
+      "emotionTags": [
+        "Comfort",
+        "Hope"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "com_b003",
+      "textEn": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+      "textKo": "온 우주의 누구보다도, 당신 자신이 당신의 사랑과 애정을 받을 자격이 있습니다.",
       "author": "Buddha",
+      "authorKo": "붓다",
       "source": "Buddhist Teachings",
-      "emotionTags": ["Comfort", "Gratitude"],
+      "sourceKo": "불교 가르침",
+      "emotionTags": [
+        "Comfort",
+        "Gratitude"
+      ],
       "category": "Philosophy"
     },
     {
-      "id": "q013",
-      "text": "The only impossible journey is the one you never begin.",
+      "id": "com_b004",
+      "textEn": "Feelings are just visitors. Let them come and go.",
+      "textKo": "감정은 단지 방문객일 뿐입니다. 오고 가게 내버려 두세요.",
+      "author": "Mooji",
+      "authorKo": "무지",
+      "source": "Spiritual Teachings",
+      "sourceKo": "영적 가르침",
+      "emotionTags": [
+        "Comfort",
+        "Reflection"
+      ],
+      "category": "Spirituality"
+    },
+    {
+      "id": "com_b005",
+      "textEn": "Almost everything will work again if you unplug it for a few minutes, including you.",
+      "textKo": "당신을 포함해서, 거의 모든 것은 몇 분간 플러그를 뽑으면 다시 작동합니다.",
+      "author": "Anne Lamott",
+      "authorKo": "앤 라못",
+      "source": "Bird by Bird",
+      "sourceKo": "새처럼, 한 걸음씩",
+      "emotionTags": [
+        "Comfort"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "com_b006",
+      "textEn": "Talk to yourself like you would to someone you love.",
+      "textKo": "당신이 사랑하는 사람에게 하듯이 자신에게 말하세요.",
+      "author": "Brené Brown",
+      "authorKo": "브레네 브라운",
+      "source": "The Gifts of Imperfection",
+      "sourceKo": "불완전함의 선물",
+      "emotionTags": [
+        "Comfort"
+      ],
+      "category": "Psychology"
+    },
+    {
+      "id": "com_b007",
+      "textEn": "Between stimulus and response there is a space. In that space is our power to choose.",
+      "textKo": "자극과 반응 사이에는 공간이 있습니다. 그 공간에 우리의 선택할 힘이 있습니다.",
+      "author": "Viktor Frankl",
+      "authorKo": "빅터 프랭클",
+      "source": "Man's Search for Meaning",
+      "sourceKo": "죽음의 수용소에서",
+      "emotionTags": [
+        "Comfort",
+        "Reflection"
+      ],
+      "category": "Psychology"
+    },
+    {
+      "id": "com_b008",
+      "textEn": "The curious paradox is that when I accept myself just as I am, then I can change.",
+      "textKo": "흥미로운 역설은, 내가 있는 그대로의 나를 받아들일 때 비로소 변화할 수 있다는 것입니다.",
+      "author": "Carl Rogers",
+      "authorKo": "칼 로저스",
+      "source": "On Becoming a Person",
+      "sourceKo": "사람이 되어간다는 것",
+      "emotionTags": [
+        "Comfort",
+        "Reflection"
+      ],
+      "category": "Psychology"
+    },
+    {
+      "id": "com_b009",
+      "textEn": "Breathe. Let go. And remind yourself that this very moment is the only one you know you have for sure.",
+      "textKo": "숨을 쉬세요. 놓아주세요. 그리고 이 순간이 당신이 확실히 가진 유일한 순간임을 기억하세요.",
+      "author": "Oprah Winfrey",
+      "authorKo": "오프라 윈프리",
+      "source": "Interview",
+      "sourceKo": "인터뷰",
+      "emotionTags": [
+        "Comfort"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com_b010",
+      "textEn": "The present moment is filled with joy and happiness. If you are attentive, you will see it.",
+      "textKo": "현재 이 순간은 기쁨과 행복으로 가득 차 있습니다. 주의 깊게 본다면, 당신은 그것을 볼 것입니다.",
+      "author": "Thich Nhat Hanh",
+      "authorKo": "틱낫한",
+      "source": "Peace Is Every Step",
+      "sourceKo": "평화로운 발걸음",
+      "emotionTags": [
+        "Comfort",
+        "Joy"
+      ],
+      "category": "Mindfulness"
+    },
+    {
+      "id": "com_b011",
+      "textEn": "You are the sky. Everything else is just the weather.",
+      "textKo": "당신은 하늘입니다. 나머지는 모두 그저 날씨일 뿐입니다.",
+      "author": "Pema Chödrön",
+      "authorKo": "페마 초드론",
+      "source": "When Things Fall Apart",
+      "sourceKo": "불확실한 일들에 대한 확실함",
+      "emotionTags": [
+        "Comfort",
+        "Reflection"
+      ],
+      "category": "Mindfulness"
+    },
+    {
+      "id": "com_b012",
+      "textEn": "Nothing ever goes away until it teaches us what we need to know.",
+      "textKo": "아무것도 우리가 알아야 할 것을 가르쳐주기 전까지는 사라지지 않습니다.",
+      "author": "Pema Chödrön",
+      "authorKo": "페마 초드론",
+      "source": "When Things Fall Apart",
+      "sourceKo": "불확실한 일들에 대한 확실함",
+      "emotionTags": [
+        "Comfort",
+        "Reflection"
+      ],
+      "category": "Mindfulness"
+    },
+    {
+      "id": "com_b013",
+      "textEn": "You are braver than you believe, stronger than you seem, and smarter than you think.",
+      "textKo": "당신은 당신이 믿는 것보다 용감하고, 보이는 것보다 강하며, 생각하는 것보다 똑똑합니다.",
+      "author": "A.A. Milne",
+      "authorKo": "A.A. 밀른",
+      "source": "Winnie the Pooh",
+      "sourceKo": "곰돌이 푸",
+      "emotionTags": [
+        "Comfort",
+        "Hope"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "com_b014",
+      "textEn": "There is a crack in everything. That's how the light gets in.",
+      "textKo": "모든 것에는 균열이 있습니다. 그것이 빛이 들어오는 방법입니다.",
+      "author": "Leonard Cohen",
+      "authorKo": "레너드 코헨",
+      "source": "Anthem (Song)",
+      "sourceKo": "앤섬 (노래)",
+      "emotionTags": [
+        "Comfort",
+        "Hope"
+      ],
+      "category": "Music"
+    },
+    {
+      "id": "com_b015",
+      "textEn": "When you can't control what's happening, challenge yourself to control the way you respond.",
+      "textKo": "일어나는 일을 통제할 수 없을 때, 당신의 반응 방식을 통제하도록 노력하세요.",
+      "author": "Unknown",
+      "authorKo": null,
+      "source": "Popular Wisdom",
+      "sourceKo": "대중의 지혜",
+      "emotionTags": [
+        "Comfort",
+        "Reflection"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com_b016",
+      "textEn": "The oak fought the wind and was broken, the willow bent when it must and survived.",
+      "textKo": "참나무는 바람과 싸우다 부러졌고, 버드나무는 필요할 때 구부러져 살아남았습니다.",
+      "author": "Robert Jordan",
+      "authorKo": "로버트 조던",
+      "source": "The Fires of Heaven",
+      "sourceKo": "하늘의 불길",
+      "emotionTags": [
+        "Comfort",
+        "Reflection"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "com_b017",
+      "textEn": "Even the darkest night will end and the sun will rise.",
+      "textKo": "가장 어두운 밤도 끝나고 해가 뜰 것입니다.",
+      "author": "Victor Hugo",
+      "authorKo": "빅토르 위고",
+      "source": "Les Misérables",
+      "sourceKo": "레미제라블",
+      "emotionTags": [
+        "Comfort",
+        "Hope"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "com_b018",
+      "textEn": "In the midst of winter, I found there was, within me, an invincible summer.",
+      "textKo": "한겨울 속에서, 나는 내 안에 불굴의 여름이 있음을 발견했습니다.",
+      "author": "Albert Camus",
+      "authorKo": "알베르 카뮈",
+      "source": "Return to Tipasa",
+      "sourceKo": "티파사로의 귀환",
+      "emotionTags": [
+        "Comfort",
+        "Hope"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "com_b019",
+      "textEn": "You are allowed to be both a masterpiece and a work in progress simultaneously.",
+      "textKo": "당신은 동시에 걸작이면서도 진행 중인 작품일 수 있습니다.",
+      "author": "Sophia Bush",
+      "authorKo": "소피아 부시",
+      "source": "Interview",
+      "sourceKo": "인터뷰",
+      "emotionTags": [
+        "Comfort",
+        "Reflection"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com_b020",
+      "textEn": "Be kind to yourself. We often need the kindness the most when we feel we deserve it the least.",
+      "textKo": "자신에게 친절하세요. 우리는 종종 가장 자격이 없다고 느낄 때 친절함이 가장 필요합니다.",
+      "author": "Unknown",
+      "authorKo": null,
+      "source": "Popular Wisdom",
+      "sourceKo": "대중의 지혜",
+      "emotionTags": [
+        "Comfort"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot_b001",
+      "textEn": "The only impossible journey is the one you never begin.",
+      "textKo": "유일하게 불가능한 여정은 시작하지 않은 여정이다.",
       "author": "Tony Robbins",
-      "source": "Motivational Speeches",
-      "emotionTags": ["Motivation", "Hope"],
+      "authorKo": "토니 로빈스",
+      "source": "Motivational Seminars",
+      "sourceKo": "동기부여 세미나",
+      "emotionTags": [
+        "Motivation",
+        "Hope"
+      ],
       "category": "Psychology"
     },
     {
-      "id": "q014",
-      "text": "Everything you've ever wanted is on the other side of fear.",
-      "author": "George Addair",
-      "source": "Personal Development",
-      "emotionTags": ["Comfort", "Motivation", "Hope"],
-      "category": "Psychology"
+      "id": "mot_b002",
+      "textEn": "Don't count the days. Make the days count.",
+      "textKo": "날짜를 세지 말고, 날짜를 의미있게 만들어라.",
+      "author": "Muhammad Ali",
+      "authorKo": "무하마드 알리",
+      "source": "Interview",
+      "sourceKo": "인터뷰",
+      "emotionTags": [
+        "Motivation"
+      ],
+      "category": "Sports"
     },
     {
-      "id": "q015",
-      "text": "Happiness is not something ready made. It comes from your own actions.",
-      "author": "Dalai Lama",
-      "source": "The Art of Happiness",
-      "emotionTags": ["Joy", "Reflection", "Hope"],
-      "category": "Philosophy"
+      "id": "mot_b003",
+      "textEn": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "textKo": "나무를 심기에 가장 좋은 때는 20년 전이었다. 두 번째로 좋은 때는 지금이다.",
+      "author": "Chinese Proverb",
+      "authorKo": "중국 속담",
+      "source": "Ancient Wisdom",
+      "sourceKo": "고대의 지혜",
+      "emotionTags": [
+        "Motivation"
+      ],
+      "category": "Eastern Philosophy"
     },
     {
-      "id": "q016",
-      "text": "The wound is the place where the Light enters you.",
-      "author": "Rumi",
-      "source": "Poetry",
-      "emotionTags": ["Struggle", "Hope", "Reflection"],
-      "category": "Literature"
-    },
-    {
-      "id": "q017",
-      "text": "It always seems impossible until it's done.",
-      "author": "Nelson Mandela",
-      "source": "Speeches",
-      "emotionTags": ["Achievement", "Motivation"],
-      "category": "Philosophy"
-    },
-    {
-      "id": "q018",
-      "text": "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.",
-      "author": "Rumi",
-      "source": "Poetry",
-      "emotionTags": ["Reflection", "Comfort"],
-      "category": "Literature"
-    },
-    {
-      "id": "q019",
-      "text": "The only person you are destined to become is the person you decide to be.",
-      "author": "Ralph Waldo Emerson",
+      "id": "mot_b004",
+      "textEn": "You are never too old to set another goal or to dream a new dream.",
+      "textKo": "새로운 목표를 세우거나 새로운 꿈을 꾸기에 나이가 많다는 것은 없다.",
+      "author": "C.S. Lewis",
+      "authorKo": "C.S. 루이스",
       "source": "Essays",
-      "emotionTags": ["Hope", "Motivation", "Reflection"],
+      "sourceKo": "수필",
+      "emotionTags": [
+        "Motivation",
+        "Hope"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "mot_b005",
+      "textEn": "Do it now. Sometimes 'later' becomes 'never'.",
+      "textKo": "지금 하라. 때때로 '나중에'는 '절대'가 된다.",
+      "author": "Unknown",
+      "authorKo": null,
+      "source": "Popular Wisdom",
+      "sourceKo": "대중의 지혜",
+      "emotionTags": [
+        "Motivation"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot_b006",
+      "textEn": "A year from now you may wish you had started today.",
+      "textKo": "1년 후 당신은 오늘 시작했기를 바랄 것이다.",
+      "author": "Karen Lamb",
+      "authorKo": "카렌 램",
+      "source": "Motivational Writing",
+      "sourceKo": "동기부여 글",
+      "emotionTags": [
+        "Motivation"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot_b007",
+      "textEn": "The hard days are what make you stronger.",
+      "textKo": "힘든 날들이 당신을 더 강하게 만든다.",
+      "author": "Aly Raisman",
+      "authorKo": "알리 라이스먼",
+      "source": "Fierce",
+      "sourceKo": "맹렬함",
+      "emotionTags": [
+        "Motivation",
+        "Struggle"
+      ],
+      "category": "Sports"
+    },
+    {
+      "id": "mot_b008",
+      "textEn": "Motivation is what gets you started. Habit is what keeps you going.",
+      "textKo": "동기부여는 당신을 시작하게 하고, 습관은 당신을 계속하게 한다.",
+      "author": "Jim Ryun",
+      "authorKo": "짐 라이언",
+      "source": "Running Philosophy",
+      "sourceKo": "달리기 철학",
+      "emotionTags": [
+        "Motivation",
+        "Reflection"
+      ],
+      "category": "Sports"
+    },
+    {
+      "id": "mot_b009",
+      "textEn": "Push harder than yesterday if you want a different tomorrow.",
+      "textKo": "다른 내일을 원한다면 어제보다 더 열심히 밀어붙여라.",
+      "author": "Unknown",
+      "authorKo": null,
+      "source": "Popular Wisdom",
+      "sourceKo": "대중의 지혜",
+      "emotionTags": [
+        "Motivation"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot_b010",
+      "textEn": "Don't stop when you're tired. Stop when you're done.",
+      "textKo": "피곤할 때 멈추지 말고, 끝났을 때 멈춰라.",
+      "author": "Unknown",
+      "authorKo": null,
+      "source": "Popular Wisdom",
+      "sourceKo": "대중의 지혜",
+      "emotionTags": [
+        "Motivation"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot_b011",
+      "textEn": "It does not matter how slowly you go as long as you do not stop.",
+      "textKo": "멈추지만 않는다면 얼마나 천천히 가는지는 중요하지 않다.",
+      "author": "Confucius",
+      "authorKo": "공자",
+      "source": "Analects",
+      "sourceKo": "논어",
+      "emotionTags": [
+        "Motivation",
+        "Reflection"
+      ],
+      "category": "Eastern Philosophy"
+    },
+    {
+      "id": "mot_b012",
+      "textEn": "The future depends on what you do today.",
+      "textKo": "미래는 오늘 당신이 무엇을 하는가에 달려 있다.",
+      "author": "Mahatma Gandhi",
+      "authorKo": "마하트마 간디",
+      "source": "Speeches",
+      "sourceKo": "연설",
+      "emotionTags": [
+        "Motivation",
+        "Reflection"
+      ],
+      "category": "Leadership"
+    },
+    {
+      "id": "mot_b013",
+      "textEn": "If you want something you've never had, you must be willing to do something you've never done.",
+      "textKo": "결코 가져본 적 없는 것을 원한다면, 결코 해본 적 없는 것을 기꺼이 해야 한다.",
+      "author": "Thomas Jefferson",
+      "authorKo": "토마스 제퍼슨",
+      "source": "Letters",
+      "sourceKo": "서간집",
+      "emotionTags": [
+        "Motivation",
+        "Reflection"
+      ],
+      "category": "Leadership"
+    },
+    {
+      "id": "mot_b014",
+      "textEn": "Dream big. Start small. Act now.",
+      "textKo": "크게 꿈꾸고, 작게 시작하고, 지금 행동하라.",
+      "author": "Robin Sharma",
+      "authorKo": "로빈 샤르마",
+      "source": "The Leader Who Had No Title",
+      "sourceKo": "타이틀 없는 리더",
+      "emotionTags": [
+        "Motivation"
+      ],
+      "category": "Business"
+    },
+    {
+      "id": "mot_b015",
+      "textEn": "The harder the battle, the sweeter the victory.",
+      "textKo": "전투가 힘들수록, 승리는 더 달콤하다.",
+      "author": "Les Brown",
+      "authorKo": "레스 브라운",
+      "source": "Motivational Speeches",
+      "sourceKo": "동기부여 연설",
+      "emotionTags": [
+        "Motivation",
+        "Struggle"
+      ],
+      "category": "Psychology"
+    },
+    {
+      "id": "mot_b016",
+      "textEn": "Your only limit is you.",
+      "textKo": "당신의 유일한 한계는 바로 당신 자신이다.",
+      "author": "Unknown",
+      "authorKo": null,
+      "source": "Popular Wisdom",
+      "sourceKo": "대중의 지혜",
+      "emotionTags": [
+        "Motivation"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot_b017",
+      "textEn": "Success doesn't just find you. You have to go out and get it.",
+      "textKo": "성공은 그냥 당신을 찾아오지 않는다. 당신이 나가서 쟁취해야 한다.",
+      "author": "Unknown",
+      "authorKo": null,
+      "source": "Popular Wisdom",
+      "sourceKo": "대중의 지혜",
+      "emotionTags": [
+        "Motivation"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot_b018",
+      "textEn": "Make today so awesome yesterday gets jealous.",
+      "textKo": "오늘을 너무 멋지게 만들어서 어제가 질투하게 만들어라.",
+      "author": "Unknown",
+      "authorKo": null,
+      "source": "Popular Wisdom",
+      "sourceKo": "대중의 지혜",
+      "emotionTags": [
+        "Motivation",
+        "Joy"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot_b019",
+      "textEn": "Don't wait for opportunity. Create it.",
+      "textKo": "기회를 기다리지 말고, 만들어라.",
+      "author": "Unknown",
+      "authorKo": null,
+      "source": "Popular Wisdom",
+      "sourceKo": "대중의 지혜",
+      "emotionTags": [
+        "Motivation"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot_b020",
+      "textEn": "The secret to getting ahead is getting started.",
+      "textKo": "앞서가는 비결은 시작하는 것이다.",
+      "author": "Mark Twain",
+      "authorKo": "마크 트웨인",
+      "source": "Essays",
+      "sourceKo": "수필",
+      "emotionTags": [
+        "Motivation"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "grat_b001",
+      "textEn": "Gratitude turns what we have into enough.",
+      "textKo": "감사는 우리가 가진 것을 충분하게 만든다.",
+      "author": "Aesop",
+      "authorKo": "이솝",
+      "source": "Fables",
+      "sourceKo": "우화",
+      "emotionTags": [
+        "Gratitude"
+      ],
       "category": "Philosophy"
     },
     {
-      "id": "q020",
-      "text": "Joy does not simply happen to us. We have to choose joy and keep choosing it every day.",
-      "author": "Henri Nouwen",
-      "source": "The Return of the Prodigal Son",
-      "emotionTags": ["Joy", "Gratitude", "Reflection"],
+      "id": "grat_b002",
+      "textEn": "When you arise in the morning, think of what a precious privilege it is to be alive.",
+      "textKo": "아침에 일어날 때, 살아있다는 것이 얼마나 귀중한 특권인지 생각하라.",
+      "author": "Marcus Aurelius",
+      "authorKo": "마르쿠스 아우렐리우스",
+      "source": "Meditations",
+      "sourceKo": "명상록",
+      "emotionTags": [
+        "Gratitude",
+        "Reflection"
+      ],
+      "category": "Stoicism"
+    },
+    {
+      "id": "grat_b003",
+      "textEn": "Gratitude is not only the greatest of virtues, but the parent of all others.",
+      "textKo": "감사는 미덕 중 가장 위대한 것일 뿐만 아니라, 다른 모든 미덕의 어버이다.",
+      "author": "Cicero",
+      "authorKo": "키케로",
+      "source": "Pro Plancio",
+      "sourceKo": "플란키우스 변론",
+      "emotionTags": [
+        "Gratitude"
+      ],
       "category": "Philosophy"
+    },
+    {
+      "id": "grat_b004",
+      "textEn": "Enjoy the little things, for one day you may look back and realize they were the big things.",
+      "textKo": "작은 것들을 즐겨라. 언젠가 되돌아보면 그것들이 큰 것이었음을 깨달을 것이다.",
+      "author": "Robert Brault",
+      "authorKo": "로버트 브롤트",
+      "source": "Round Up",
+      "sourceKo": "모음집",
+      "emotionTags": [
+        "Gratitude",
+        "Joy"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "grat_b005",
+      "textEn": "Wear gratitude like a cloak and it will feed every corner of your life.",
+      "textKo": "감사를 망토처럼 걸치면 그것이 당신 삶의 모든 구석을 풍요롭게 할 것이다.",
+      "author": "Rumi",
+      "authorKo": "루미",
+      "source": "Poetry",
+      "sourceKo": "시",
+      "emotionTags": [
+        "Gratitude"
+      ],
+      "category": "Poetry"
+    },
+    {
+      "id": "grat_b006",
+      "textEn": "The roots of all goodness lie in the soil of appreciation for goodness.",
+      "textKo": "모든 선함의 뿌리는 선함에 대한 감사의 토양에 있다.",
+      "author": "Dalai Lama",
+      "authorKo": "달라이 라마",
+      "source": "The Art of Happiness",
+      "sourceKo": "행복의 기술",
+      "emotionTags": [
+        "Gratitude",
+        "Reflection"
+      ],
+      "category": "Spirituality"
+    },
+    {
+      "id": "grat_b007",
+      "textEn": "Let us be grateful to the people who make us happy; they are the charming gardeners who make our souls blossom.",
+      "textKo": "우리를 행복하게 만드는 사람들에게 감사하자. 그들은 우리 영혼을 꽃피우는 매력적인 정원사들이다.",
+      "author": "Marcel Proust",
+      "authorKo": "마르셀 프루스트",
+      "source": "Remembrance of Things Past",
+      "sourceKo": "잃어버린 시간을 찾아서",
+      "emotionTags": [
+        "Gratitude"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "grat_b008",
+      "textEn": "Joy does not simply happen to us. We have to choose joy and keep choosing it every day.",
+      "textKo": "기쁨은 그냥 우리에게 일어나지 않는다. 우리는 기쁨을 선택하고 매일 계속 선택해야 한다.",
+      "author": "Henri Nouwen",
+      "authorKo": "헨리 나우웬",
+      "source": "The Return of the Prodigal Son",
+      "sourceKo": "탕자의 귀환",
+      "emotionTags": [
+        "Gratitude",
+        "Joy"
+      ],
+      "category": "Spirituality"
+    },
+    {
+      "id": "grat_b009",
+      "textEn": "The struggle ends when gratitude begins.",
+      "textKo": "감사가 시작될 때 투쟁은 끝난다.",
+      "author": "Neale Donald Walsch",
+      "authorKo": "닐 도널드 월쉬",
+      "source": "Conversations with God",
+      "sourceKo": "신과의 대화",
+      "emotionTags": [
+        "Gratitude",
+        "Reflection"
+      ],
+      "category": "Spirituality"
+    },
+    {
+      "id": "grat_b010",
+      "textEn": "Acknowledging the good that you already have in your life is the foundation for all abundance.",
+      "textKo": "당신의 삶에 이미 있는 좋은 것들을 인정하는 것이 모든 풍요의 기초이다.",
+      "author": "Eckhart Tolle",
+      "authorKo": "에크하르트 톨레",
+      "source": "A New Earth",
+      "sourceKo": "새로운 지구",
+      "emotionTags": [
+        "Gratitude"
+      ],
+      "category": "Spirituality"
+    },
+    {
+      "id": "grat_b011",
+      "textEn": "Be thankful for what you have; you'll end up having more.",
+      "textKo": "당신이 가진 것에 감사하라. 결국 더 많이 갖게 될 것이다.",
+      "author": "Oprah Winfrey",
+      "authorKo": "오프라 윈프리",
+      "source": "What I Know For Sure",
+      "sourceKo": "내가 확실히 아는 것",
+      "emotionTags": [
+        "Gratitude"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "grat_b012",
+      "textEn": "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.",
+      "textKo": "감사는 우리의 과거를 이해하게 하고, 오늘에 평화를 가져오며, 내일을 위한 비전을 만든다.",
+      "author": "Melody Beattie",
+      "authorKo": "멜로디 비티",
+      "source": "The Language of Letting Go",
+      "sourceKo": "놓아주기의 언어",
+      "emotionTags": [
+        "Gratitude",
+        "Hope"
+      ],
+      "category": "Psychology"
+    },
+    {
+      "id": "grat_b013",
+      "textEn": "In ordinary life, we hardly realize that we receive a great deal more than we give.",
+      "textKo": "일상에서 우리는 주는 것보다 훨씬 더 많이 받는다는 것을 거의 깨닫지 못한다.",
+      "author": "Dietrich Bonhoeffer",
+      "authorKo": "디트리히 본회퍼",
+      "source": "Letters and Papers from Prison",
+      "sourceKo": "옥중서신",
+      "emotionTags": [
+        "Gratitude",
+        "Reflection"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "grat_b014",
+      "textEn": "Feeling gratitude and not expressing it is like wrapping a present and not giving it.",
+      "textKo": "감사를 느끼고 표현하지 않는 것은 선물을 포장하고 주지 않는 것과 같다.",
+      "author": "William Arthur Ward",
+      "authorKo": "윌리엄 아서 워드",
+      "source": "Thoughts of a Christian Optimist",
+      "sourceKo": "기독교 낙관주의자의 생각",
+      "emotionTags": [
+        "Gratitude"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "grat_b015",
+      "textEn": "Gratitude is the healthiest of all human emotions.",
+      "textKo": "감사는 모든 인간 감정 중 가장 건강한 것이다.",
+      "author": "Zig Ziglar",
+      "authorKo": "지그 지글러",
+      "source": "Motivational Speeches",
+      "sourceKo": "동기부여 연설",
+      "emotionTags": [
+        "Gratitude"
+      ],
+      "category": "Psychology"
+    },
+    {
+      "id": "grat_b016",
+      "textEn": "Silent gratitude isn't very much to anyone.",
+      "textKo": "침묵하는 감사는 누구에게도 큰 의미가 없다.",
+      "author": "Gertrude Stein",
+      "authorKo": "거트루드 스타인",
+      "source": "Writings",
+      "sourceKo": "저술",
+      "emotionTags": [
+        "Gratitude"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "grat_b017",
+      "textEn": "The best way to pay for a lovely moment is to enjoy it.",
+      "textKo": "아름다운 순간에 대한 최고의 보답은 그것을 즐기는 것이다.",
+      "author": "Richard Bach",
+      "authorKo": "리처드 바크",
+      "source": "Illusions",
+      "sourceKo": "환상",
+      "emotionTags": [
+        "Gratitude",
+        "Joy"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "grat_b018",
+      "textEn": "Gratitude is the fairest blossom which springs from the soul.",
+      "textKo": "감사는 영혼에서 피어나는 가장 아름다운 꽃이다.",
+      "author": "Henry Ward Beecher",
+      "authorKo": "헨리 워드 비처",
+      "source": "Sermons",
+      "sourceKo": "설교",
+      "emotionTags": [
+        "Gratitude"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "grat_b019",
+      "textEn": "When I started counting my blessings, my whole life turned around.",
+      "textKo": "내 축복을 세기 시작했을 때, 내 인생 전체가 바뀌었다.",
+      "author": "Willie Nelson",
+      "authorKo": "윌리 넬슨",
+      "source": "Interview",
+      "sourceKo": "인터뷰",
+      "emotionTags": [
+        "Gratitude",
+        "Reflection"
+      ],
+      "category": "Music"
+    },
+    {
+      "id": "grat_b020",
+      "textEn": "The thankful receiver bears a plentiful harvest.",
+      "textKo": "감사하는 수령자는 풍성한 수확을 거둔다.",
+      "author": "William Blake",
+      "authorKo": "윌리엄 블레이크",
+      "source": "Proverbs of Hell",
+      "sourceKo": "지옥의 잠언",
+      "emotionTags": [
+        "Gratitude"
+      ],
+      "category": "Poetry"
+    },
+    {
+      "id": "str_b001",
+      "textEn": "The impediment to action advances action. What stands in the way becomes the way.",
+      "textKo": "행동의 장애물이 행동을 전진시킨다. 길을 가로막는 것이 바로 길이 된다.",
+      "author": "Marcus Aurelius",
+      "authorKo": "마르쿠스 아우렐리우스",
+      "source": "Meditations",
+      "sourceKo": "명상록",
+      "emotionTags": [
+        "Struggle",
+        "Achievement"
+      ],
+      "category": "Stoicism"
+    },
+    {
+      "id": "str_b002",
+      "textEn": "The only way out is through.",
+      "textKo": "빠져나가는 유일한 길은 통과하는 것이다.",
+      "author": "Robert Frost",
+      "authorKo": "로버트 프로스트",
+      "source": "A Servant to Servants",
+      "sourceKo": "하인들의 하인",
+      "emotionTags": [
+        "Struggle",
+        "Motivation"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "str_b003",
+      "textEn": "In the middle of difficulty lies opportunity.",
+      "textKo": "어려움의 한가운데 기회가 놓여 있다.",
+      "author": "Albert Einstein",
+      "authorKo": "알버트 아인슈타인",
+      "source": "Scientific Papers",
+      "sourceKo": "과학 논문",
+      "emotionTags": [
+        "Struggle",
+        "Hope"
+      ],
+      "category": "Science"
+    },
+    {
+      "id": "str_b004",
+      "textEn": "The wound is the place where the Light enters you.",
+      "textKo": "상처는 빛이 당신에게 들어오는 곳이다.",
+      "author": "Rumi",
+      "authorKo": "루미",
+      "source": "Poetry",
+      "sourceKo": "시",
+      "emotionTags": [
+        "Struggle",
+        "Hope"
+      ],
+      "category": "Poetry"
+    },
+    {
+      "id": "str_b005",
+      "textEn": "That which does not kill us makes us stronger.",
+      "textKo": "우리를 죽이지 못하는 것이 우리를 더 강하게 만든다.",
+      "author": "Friedrich Nietzsche",
+      "authorKo": "프리드리히 니체",
+      "source": "Twilight of the Idols",
+      "sourceKo": "우상의 황혼",
+      "emotionTags": [
+        "Struggle",
+        "Motivation"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "str_b006",
+      "textEn": "When everything seems to be going against you, remember that the airplane takes off against the wind.",
+      "textKo": "모든 것이 당신에게 불리한 것처럼 보일 때, 비행기는 바람을 거슬러 이륙한다는 것을 기억하라.",
+      "author": "Henry Ford",
+      "authorKo": "헨리 포드",
+      "source": "Interview",
+      "sourceKo": "인터뷰",
+      "emotionTags": [
+        "Struggle",
+        "Hope"
+      ],
+      "category": "Business"
+    },
+    {
+      "id": "str_b007",
+      "textEn": "Strength and growth come only through continuous effort and struggle.",
+      "textKo": "힘과 성장은 오직 지속적인 노력과 투쟁을 통해서만 온다.",
+      "author": "Napoleon Hill",
+      "authorKo": "나폴레온 힐",
+      "source": "Think and Grow Rich",
+      "sourceKo": "생각하라 그리고 부자가 되어라",
+      "emotionTags": [
+        "Struggle",
+        "Achievement"
+      ],
+      "category": "Business"
+    },
+    {
+      "id": "str_b008",
+      "textEn": "Difficulties strengthen the mind, as labor does the body.",
+      "textKo": "노동이 몸을 강하게 하듯이, 어려움은 정신을 강하게 한다.",
+      "author": "Seneca",
+      "authorKo": "세네카",
+      "source": "Letters from a Stoic",
+      "sourceKo": "스토아 서간집",
+      "emotionTags": [
+        "Struggle",
+        "Reflection"
+      ],
+      "category": "Stoicism"
+    },
+    {
+      "id": "str_b009",
+      "textEn": "The gem cannot be polished without friction, nor man perfected without trials.",
+      "textKo": "마찰 없이 보석을 닦을 수 없듯이, 시련 없이 인간을 완성할 수 없다.",
+      "author": "Chinese Proverb",
+      "authorKo": "중국 속담",
+      "source": "Ancient Wisdom",
+      "sourceKo": "고대의 지혜",
+      "emotionTags": [
+        "Struggle",
+        "Reflection"
+      ],
+      "category": "Eastern Philosophy"
+    },
+    {
+      "id": "str_b010",
+      "textEn": "When written in Chinese, the word 'crisis' is composed of two characters: danger and opportunity.",
+      "textKo": "중국어로 '위기'는 두 글자로 이루어진다: 위험과 기회.",
+      "author": "John F. Kennedy",
+      "authorKo": "존 F. 케네디",
+      "source": "Speech",
+      "sourceKo": "연설",
+      "emotionTags": [
+        "Struggle",
+        "Hope"
+      ],
+      "category": "Leadership"
+    },
+    {
+      "id": "str_b011",
+      "textEn": "Out of suffering have emerged the strongest souls.",
+      "textKo": "고통에서 가장 강한 영혼이 나왔다.",
+      "author": "Kahlil Gibran",
+      "authorKo": "칼릴 지브란",
+      "source": "The Prophet",
+      "sourceKo": "예언자",
+      "emotionTags": [
+        "Struggle",
+        "Achievement"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "str_b012",
+      "textEn": "The harder the conflict, the more glorious the triumph.",
+      "textKo": "갈등이 힘들수록, 승리는 더 영광스럽다.",
+      "author": "Thomas Paine",
+      "authorKo": "토마스 페인",
+      "source": "The Crisis",
+      "sourceKo": "위기",
+      "emotionTags": [
+        "Struggle",
+        "Achievement"
+      ],
+      "category": "History"
+    },
+    {
+      "id": "str_b013",
+      "textEn": "Everything negative is an opportunity in disguise.",
+      "textKo": "모든 부정적인 것은 위장된 기회이다.",
+      "author": "Unknown",
+      "authorKo": null,
+      "source": "Popular Wisdom",
+      "sourceKo": "대중의 지혜",
+      "emotionTags": [
+        "Struggle",
+        "Hope"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "str_b014",
+      "textEn": "Hardships often prepare ordinary people for an extraordinary destiny.",
+      "textKo": "고난은 종종 평범한 사람들을 비범한 운명으로 준비시킨다.",
+      "author": "C.S. Lewis",
+      "authorKo": "C.S. 루이스",
+      "source": "Essays",
+      "sourceKo": "수필",
+      "emotionTags": [
+        "Struggle",
+        "Hope"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "str_b015",
+      "textEn": "The bamboo that bends is stronger than the oak that resists.",
+      "textKo": "구부러지는 대나무가 저항하는 참나무보다 강하다.",
+      "author": "Japanese Proverb",
+      "authorKo": "일본 속담",
+      "source": "Ancient Wisdom",
+      "sourceKo": "고대의 지혜",
+      "emotionTags": [
+        "Struggle",
+        "Reflection"
+      ],
+      "category": "Eastern Philosophy"
+    },
+    {
+      "id": "str_b016",
+      "textEn": "If you're going through hell, keep going.",
+      "textKo": "지옥을 지나가고 있다면, 계속 가라.",
+      "author": "Winston Churchill",
+      "authorKo": "윈스턴 처칠",
+      "source": "Speech",
+      "sourceKo": "연설",
+      "emotionTags": [
+        "Struggle",
+        "Motivation"
+      ],
+      "category": "Leadership"
+    },
+    {
+      "id": "str_b017",
+      "textEn": "Smooth seas do not make skillful sailors.",
+      "textKo": "잔잔한 바다는 숙련된 선원을 만들지 못한다.",
+      "author": "African Proverb",
+      "authorKo": "아프리카 속담",
+      "source": "Ancient Wisdom",
+      "sourceKo": "고대의 지혜",
+      "emotionTags": [
+        "Struggle",
+        "Reflection"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "str_b018",
+      "textEn": "The greater the obstacle, the more glory in overcoming it.",
+      "textKo": "장애물이 클수록, 그것을 극복하는 영광도 크다.",
+      "author": "Molière",
+      "authorKo": "몰리에르",
+      "source": "Plays",
+      "sourceKo": "희곡",
+      "emotionTags": [
+        "Struggle",
+        "Achievement"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "str_b019",
+      "textEn": "You may encounter many defeats, but you must not be defeated.",
+      "textKo": "많은 패배를 만날 수 있지만, 패배하면 안 된다.",
+      "author": "Maya Angelou",
+      "authorKo": "마야 안젤루",
+      "source": "I Know Why the Caged Bird Sings",
+      "sourceKo": "새장에 갇힌 새가 왜 노래하는지 나는 안다",
+      "emotionTags": [
+        "Struggle",
+        "Hope"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "str_b020",
+      "textEn": "Rock bottom became the solid foundation on which I rebuilt my life.",
+      "textKo": "바닥이 내 인생을 재건한 견고한 기초가 되었다.",
+      "author": "J.K. Rowling",
+      "authorKo": "J.K. 롤링",
+      "source": "Harvard Commencement Speech",
+      "sourceKo": "하버드 졸업 연설",
+      "emotionTags": [
+        "Struggle",
+        "Hope"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "joy_b001",
+      "textEn": "The most wasted of days is one without laughter.",
+      "textKo": "가장 낭비된 하루는 웃음이 없는 하루이다.",
+      "author": "E.E. Cummings",
+      "authorKo": "E.E. 커밍스",
+      "source": "Poetry",
+      "sourceKo": "시",
+      "emotionTags": [
+        "Joy"
+      ],
+      "category": "Poetry"
+    },
+    {
+      "id": "joy_b002",
+      "textEn": "Happiness is not something ready made. It comes from your own actions.",
+      "textKo": "행복은 이미 만들어진 것이 아니다. 그것은 당신 자신의 행동에서 온다.",
+      "author": "Dalai Lama",
+      "authorKo": "달라이 라마",
+      "source": "The Art of Happiness",
+      "sourceKo": "행복의 기술",
+      "emotionTags": [
+        "Joy",
+        "Reflection"
+      ],
+      "category": "Spirituality"
+    },
+    {
+      "id": "joy_b003",
+      "textEn": "The purpose of our lives is to be happy.",
+      "textKo": "우리 삶의 목적은 행복해지는 것이다.",
+      "author": "Dalai Lama",
+      "authorKo": "달라이 라마",
+      "source": "The Art of Happiness",
+      "sourceKo": "행복의 기술",
+      "emotionTags": [
+        "Joy"
+      ],
+      "category": "Spirituality"
+    },
+    {
+      "id": "joy_b004",
+      "textEn": "Count your age by friends, not years. Count your life by smiles, not tears.",
+      "textKo": "나이를 해로 세지 말고 친구로 세라. 인생을 눈물로 세지 말고 미소로 세라.",
+      "author": "John Lennon",
+      "authorKo": "존 레논",
+      "source": "Interview",
+      "sourceKo": "인터뷰",
+      "emotionTags": [
+        "Joy",
+        "Gratitude"
+      ],
+      "category": "Music"
+    },
+    {
+      "id": "joy_b005",
+      "textEn": "Happiness is a warm puppy.",
+      "textKo": "행복은 따뜻한 강아지다.",
+      "author": "Charles M. Schulz",
+      "authorKo": "찰스 M. 슐츠",
+      "source": "Peanuts",
+      "sourceKo": "피너츠",
+      "emotionTags": [
+        "Joy"
+      ],
+      "category": "Humor"
+    },
+    {
+      "id": "joy_b006",
+      "textEn": "The best way to cheer yourself up is to try to cheer somebody else up.",
+      "textKo": "자신을 격려하는 가장 좋은 방법은 다른 사람을 격려하는 것이다.",
+      "author": "Mark Twain",
+      "authorKo": "마크 트웨인",
+      "source": "Notebook",
+      "sourceKo": "노트",
+      "emotionTags": [
+        "Joy",
+        "Gratitude"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "joy_b007",
+      "textEn": "Whoever is happy will make others happy too.",
+      "textKo": "행복한 사람은 누구나 다른 사람도 행복하게 만들 것이다.",
+      "author": "Anne Frank",
+      "authorKo": "안네 프랑크",
+      "source": "The Diary of a Young Girl",
+      "sourceKo": "안네의 일기",
+      "emotionTags": [
+        "Joy"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "joy_b008",
+      "textEn": "Happiness is when what you think, what you say, and what you do are in harmony.",
+      "textKo": "행복은 당신이 생각하는 것, 말하는 것, 행하는 것이 조화를 이룰 때이다.",
+      "author": "Mahatma Gandhi",
+      "authorKo": "마하트마 간디",
+      "source": "Speeches",
+      "sourceKo": "연설",
+      "emotionTags": [
+        "Joy",
+        "Reflection"
+      ],
+      "category": "Leadership"
+    },
+    {
+      "id": "joy_b009",
+      "textEn": "The secret of happiness is not in doing what one likes, but in liking what one does.",
+      "textKo": "행복의 비결은 좋아하는 것을 하는 것이 아니라, 하는 것을 좋아하는 것이다.",
+      "author": "J.M. Barrie",
+      "authorKo": "J.M. 배리",
+      "source": "Peter Pan",
+      "sourceKo": "피터 팬",
+      "emotionTags": [
+        "Joy",
+        "Reflection"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "joy_b010",
+      "textEn": "Happiness is not by chance, but by choice.",
+      "textKo": "행복은 우연이 아니라 선택이다.",
+      "author": "Jim Rohn",
+      "authorKo": "짐 론",
+      "source": "Personal Development",
+      "sourceKo": "자기계발",
+      "emotionTags": [
+        "Joy"
+      ],
+      "category": "Psychology"
+    },
+    {
+      "id": "joy_b011",
+      "textEn": "Today is a perfect day to start living your dreams.",
+      "textKo": "오늘은 당신의 꿈을 실현하기 시작하기에 완벽한 날이다.",
+      "author": "Unknown",
+      "authorKo": null,
+      "source": "Popular Wisdom",
+      "sourceKo": "대중의 지혜",
+      "emotionTags": [
+        "Joy",
+        "Hope"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "joy_b012",
+      "textEn": "Be happy for this moment. This moment is your life.",
+      "textKo": "이 순간을 위해 행복하라. 이 순간이 당신의 인생이다.",
+      "author": "Omar Khayyam",
+      "authorKo": "오마르 하이얌",
+      "source": "Rubaiyat",
+      "sourceKo": "루바이야트",
+      "emotionTags": [
+        "Joy",
+        "Reflection"
+      ],
+      "category": "Poetry"
+    },
+    {
+      "id": "joy_b013",
+      "textEn": "Happiness consists more in small conveniences or pleasures that occur every day.",
+      "textKo": "행복은 매일 일어나는 작은 편의나 즐거움에 더 많이 있다.",
+      "author": "Benjamin Franklin",
+      "authorKo": "벤저민 프랭클린",
+      "source": "Autobiography",
+      "sourceKo": "자서전",
+      "emotionTags": [
+        "Joy",
+        "Gratitude"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "joy_b014",
+      "textEn": "Find ecstasy in life; the mere sense of living is joy enough.",
+      "textKo": "삶에서 황홀경을 찾아라. 살아있다는 감각 자체만으로도 충분한 기쁨이다.",
+      "author": "Emily Dickinson",
+      "authorKo": "에밀리 디킨슨",
+      "source": "Poetry",
+      "sourceKo": "시",
+      "emotionTags": [
+        "Joy"
+      ],
+      "category": "Poetry"
+    },
+    {
+      "id": "joy_b015",
+      "textEn": "The only joy in the world is to begin.",
+      "textKo": "세상의 유일한 기쁨은 시작하는 것이다.",
+      "author": "Cesare Pavese",
+      "authorKo": "체사레 파베세",
+      "source": "The Burning Brand",
+      "sourceKo": "불타는 낙인",
+      "emotionTags": [
+        "Joy",
+        "Motivation"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "joy_b016",
+      "textEn": "Smile, it's free therapy.",
+      "textKo": "미소 지으라, 그것은 무료 치료법이다.",
+      "author": "Unknown",
+      "authorKo": null,
+      "source": "Popular Wisdom",
+      "sourceKo": "대중의 지혜",
+      "emotionTags": [
+        "Joy"
+      ],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "joy_b017",
+      "textEn": "Joy is not in things; it is in us.",
+      "textKo": "기쁨은 사물에 있지 않고 우리 안에 있다.",
+      "author": "Richard Wagner",
+      "authorKo": "리하르트 바그너",
+      "source": "Music Philosophy",
+      "sourceKo": "음악 철학",
+      "emotionTags": [
+        "Joy",
+        "Reflection"
+      ],
+      "category": "Music"
+    },
+    {
+      "id": "joy_b018",
+      "textEn": "Let your joy be in your journey, not in some distant goal.",
+      "textKo": "당신의 기쁨이 먼 목표가 아니라 여정에 있게 하라.",
+      "author": "Tim Cook",
+      "authorKo": "팀 쿡",
+      "source": "Speech",
+      "sourceKo": "연설",
+      "emotionTags": [
+        "Joy",
+        "Reflection"
+      ],
+      "category": "Business"
+    },
+    {
+      "id": "joy_b019",
+      "textEn": "The sunshine is a glorious birth; But yet I know, where'er I go, That there hath pass'd away a glory from the earth.",
+      "textKo": "햇빛은 영광스러운 탄생이다. 하지만 내가 어디를 가든, 지구에서 영광이 사라졌음을 안다.",
+      "author": "William Wordsworth",
+      "authorKo": "윌리엄 워즈워스",
+      "source": "Poetry",
+      "sourceKo": "시",
+      "emotionTags": [
+        "Joy"
+      ],
+      "category": "Poetry"
+    },
+    {
+      "id": "joy_b020",
+      "textEn": "Life's most persistent and urgent question is, 'What are you doing for others?'",
+      "textKo": "인생의 가장 지속적이고 긴급한 질문은 '당신은 다른 사람들을 위해 무엇을 하고 있는가?'이다.",
+      "author": "Martin Luther King Jr.",
+      "authorKo": "마틴 루터 킹 주니어",
+      "source": "Sermon",
+      "sourceKo": "설교",
+      "emotionTags": [
+        "Joy",
+        "Reflection"
+      ],
+      "category": "Leadership"
+    },
+    {
+      "id": "ref_b001",
+      "textEn": "The unexamined life is not worth living.",
+      "textKo": "성찰하지 않는 삶은 살 가치가 없다.",
+      "author": "Socrates",
+      "authorKo": "소크라테스",
+      "source": "Plato's Apology",
+      "sourceKo": "플라톤의 변명",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ref_b002",
+      "textEn": "Know thyself.",
+      "textKo": "너 자신을 알라.",
+      "author": "Socrates",
+      "authorKo": "소크라테스",
+      "source": "Ancient Greek Philosophy",
+      "sourceKo": "고대 그리스 철학",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ref_b003",
+      "textEn": "I think, therefore I am.",
+      "textKo": "나는 생각한다, 고로 존재한다.",
+      "author": "René Descartes",
+      "authorKo": "르네 데카르트",
+      "source": "Discourse on Method",
+      "sourceKo": "방법서설",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ref_b004",
+      "textEn": "The only true wisdom is in knowing you know nothing.",
+      "textKo": "유일한 참된 지혜는 아무것도 모른다는 것을 아는 것이다.",
+      "author": "Socrates",
+      "authorKo": "소크라테스",
+      "source": "Plato's Works",
+      "sourceKo": "플라톤의 저작",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ref_b005",
+      "textEn": "We cannot solve our problems with the same thinking we used when we created them.",
+      "textKo": "우리가 문제를 만들 때 사용한 것과 같은 생각으로는 문제를 해결할 수 없다.",
+      "author": "Albert Einstein",
+      "authorKo": "알버트 아인슈타인",
+      "source": "Scientific Papers",
+      "sourceKo": "과학 논문",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Science"
+    },
+    {
+      "id": "ref_b006",
+      "textEn": "Life can only be understood backwards; but it must be lived forwards.",
+      "textKo": "인생은 뒤돌아보아야만 이해할 수 있지만, 앞으로 나아가며 살아야 한다.",
+      "author": "Søren Kierkegaard",
+      "authorKo": "쇠렌 키에르케고르",
+      "source": "Journals",
+      "sourceKo": "일기",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ref_b007",
+      "textEn": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+      "textKo": "어제 나는 영리했기에 세상을 바꾸고 싶었다. 오늘 나는 현명하기에 나 자신을 바꾸고 있다.",
+      "author": "Rumi",
+      "authorKo": "루미",
+      "source": "Poetry",
+      "sourceKo": "시",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Poetry"
+    },
+    {
+      "id": "ref_b008",
+      "textEn": "The mind is everything. What you think you become.",
+      "textKo": "마음이 모든 것이다. 당신이 생각하는 것이 당신이 된다.",
+      "author": "Buddha",
+      "authorKo": "붓다",
+      "source": "Buddhist Teachings",
+      "sourceKo": "불교 가르침",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ref_b009",
+      "textEn": "Not everything that can be counted counts, and not everything that counts can be counted.",
+      "textKo": "셀 수 있는 모든 것이 중요한 것은 아니며, 중요한 모든 것을 셀 수 있는 것은 아니다.",
+      "author": "Albert Einstein",
+      "authorKo": "알버트 아인슈타인",
+      "source": "Quote",
+      "sourceKo": "명언",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Science"
+    },
+    {
+      "id": "ref_b010",
+      "textEn": "The privilege of a lifetime is to become who you truly are.",
+      "textKo": "평생의 특권은 진정한 자신이 되는 것이다.",
+      "author": "Carl Jung",
+      "authorKo": "칼 융",
+      "source": "The Development of Personality",
+      "sourceKo": "인격의 발달",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Psychology"
+    },
+    {
+      "id": "ref_b011",
+      "textEn": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "textKo": "우리 뒤에 놓인 것과 앞에 놓인 것은 우리 안에 놓인 것에 비하면 작은 것이다.",
+      "author": "Ralph Waldo Emerson",
+      "authorKo": "랄프 왈도 에머슨",
+      "source": "Essays",
+      "sourceKo": "수필",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ref_b012",
+      "textEn": "Who looks outside, dreams; who looks inside, awakes.",
+      "textKo": "밖을 보는 사람은 꿈꾸고, 안을 보는 사람은 깨어난다.",
+      "author": "Carl Jung",
+      "authorKo": "칼 융",
+      "source": "Memories, Dreams, Reflections",
+      "sourceKo": "기억, 꿈, 성찰",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Psychology"
+    },
+    {
+      "id": "ref_b013",
+      "textEn": "I am not what happened to me, I am what I choose to become.",
+      "textKo": "나는 내게 일어난 일이 아니라, 내가 되기로 선택한 것이다.",
+      "author": "Carl Jung",
+      "authorKo": "칼 융",
+      "source": "Psychological Writings",
+      "sourceKo": "심리학 저술",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Psychology"
+    },
+    {
+      "id": "ref_b014",
+      "textEn": "The only journey is the one within.",
+      "textKo": "유일한 여정은 내면의 여정이다.",
+      "author": "Rainer Maria Rilke",
+      "authorKo": "라이너 마리아 릴케",
+      "source": "Letters to a Young Poet",
+      "sourceKo": "젊은 시인에게 보내는 편지",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "ref_b015",
+      "textEn": "Everything that irritates us about others can lead us to an understanding of ourselves.",
+      "textKo": "다른 사람에 대해 우리를 짜증나게 하는 모든 것은 우리 자신에 대한 이해로 이끌 수 있다.",
+      "author": "Carl Jung",
+      "authorKo": "칼 융",
+      "source": "Memories, Dreams, Reflections",
+      "sourceKo": "기억, 꿈, 성찰",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Psychology"
+    },
+    {
+      "id": "ref_b016",
+      "textEn": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "textKo": "우리는 반복적으로 하는 것이다. 따라서 탁월함은 행위가 아니라 습관이다.",
+      "author": "Aristotle",
+      "authorKo": "아리스토텔레스",
+      "source": "Nicomachean Ethics",
+      "sourceKo": "니코마코스 윤리학",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ref_b017",
+      "textEn": "It is not the strongest of the species that survives, but the most adaptable.",
+      "textKo": "생존하는 것은 가장 강한 종이 아니라 가장 적응력 있는 종이다.",
+      "author": "Charles Darwin",
+      "authorKo": "찰스 다윈",
+      "source": "On the Origin of Species",
+      "sourceKo": "종의 기원",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Science"
+    },
+    {
+      "id": "ref_b018",
+      "textEn": "The greatest discovery of my generation is that human beings can alter their lives by altering their attitudes.",
+      "textKo": "내 세대의 가장 위대한 발견은 인간이 태도를 바꿈으로써 삶을 바꿀 수 있다는 것이다.",
+      "author": "William James",
+      "authorKo": "윌리엄 제임스",
+      "source": "Psychology Lectures",
+      "sourceKo": "심리학 강의",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Psychology"
+    },
+    {
+      "id": "ref_b019",
+      "textEn": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "textKo": "끊임없이 당신을 다른 무언가로 만들려는 세상에서 자신이 되는 것이 가장 위대한 성취이다.",
+      "author": "Ralph Waldo Emerson",
+      "authorKo": "랄프 왈도 에머슨",
+      "source": "Self-Reliance",
+      "sourceKo": "자기 신뢰",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ref_b020",
+      "textEn": "The cave you fear to enter holds the treasure you seek.",
+      "textKo": "당신이 들어가기를 두려워하는 동굴이 당신이 찾는 보물을 간직하고 있다.",
+      "author": "Joseph Campbell",
+      "authorKo": "조셉 캠벨",
+      "source": "The Hero with a Thousand Faces",
+      "sourceKo": "천 개의 얼굴을 가진 영웅",
+      "emotionTags": [
+        "Reflection"
+      ],
+      "category": "Psychology"
+    },
+    {
+      "id": "hop_b001",
+      "textEn": "Hope is being able to see that there is light despite all of the darkness.",
+      "textKo": "희망은 모든 어둠에도 불구하고 빛이 있다는 것을 볼 수 있는 능력이다.",
+      "author": "Desmond Tutu",
+      "authorKo": "데스몬드 투투",
+      "source": "Speeches",
+      "sourceKo": "연설",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "Leadership"
+    },
+    {
+      "id": "hop_b002",
+      "textEn": "Once you choose hope, anything's possible.",
+      "textKo": "일단 희망을 선택하면, 무엇이든 가능하다.",
+      "author": "Christopher Reeve",
+      "authorKo": "크리스토퍼 리브",
+      "source": "Autobiography",
+      "sourceKo": "자서전",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "Entertainment"
+    },
+    {
+      "id": "hop_b003",
+      "textEn": "We must accept finite disappointment, but never lose infinite hope.",
+      "textKo": "우리는 유한한 실망을 받아들여야 하지만, 무한한 희망을 잃어서는 안 된다.",
+      "author": "Martin Luther King Jr.",
+      "authorKo": "마틴 루터 킹 주니어",
+      "source": "Speeches",
+      "sourceKo": "연설",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "Leadership"
+    },
+    {
+      "id": "hop_b004",
+      "textEn": "Hope is the thing with feathers that perches in the soul.",
+      "textKo": "희망은 영혼에 깃드는 깃털을 가진 것이다.",
+      "author": "Emily Dickinson",
+      "authorKo": "에밀리 디킨슨",
+      "source": "Poetry",
+      "sourceKo": "시",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "Poetry"
+    },
+    {
+      "id": "hop_b005",
+      "textEn": "Everything that is done in this world is done by hope.",
+      "textKo": "이 세상에서 이루어지는 모든 것은 희망으로 이루어진다.",
+      "author": "Martin Luther",
+      "authorKo": "마르틴 루터",
+      "source": "Writings",
+      "sourceKo": "저술",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "hop_b006",
+      "textEn": "The best way to not feel hopeless is to get up and do something.",
+      "textKo": "절망감을 느끼지 않는 가장 좋은 방법은 일어나서 무언가를 하는 것이다.",
+      "author": "Barack Obama",
+      "authorKo": "버락 오바마",
+      "source": "Speech",
+      "sourceKo": "연설",
+      "emotionTags": [
+        "Hope",
+        "Motivation"
+      ],
+      "category": "Leadership"
+    },
+    {
+      "id": "hop_b007",
+      "textEn": "In the middle of winter I at last discovered that there was in me an invincible summer.",
+      "textKo": "한겨울에 나는 마침내 내 안에 불굴의 여름이 있음을 발견했다.",
+      "author": "Albert Camus",
+      "authorKo": "알베르 카뮈",
+      "source": "Return to Tipasa",
+      "sourceKo": "티파사로의 귀환",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "hop_b008",
+      "textEn": "Where there is no hope, it is incumbent on us to invent it.",
+      "textKo": "희망이 없는 곳에서는 우리가 그것을 창조하는 것이 의무이다.",
+      "author": "Albert Camus",
+      "authorKo": "알베르 카뮈",
+      "source": "The Myth of Sisyphus",
+      "sourceKo": "시지프 신화",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "hop_b009",
+      "textEn": "The very least you can do in your life is figure out what you hope for.",
+      "textKo": "당신이 인생에서 할 수 있는 최소한의 일은 당신이 무엇을 희망하는지 알아내는 것이다.",
+      "author": "Barbara Kingsolver",
+      "authorKo": "바바라 킹솔버",
+      "source": "Animal Dreams",
+      "sourceKo": "동물의 꿈",
+      "emotionTags": [
+        "Hope",
+        "Reflection"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "hop_b010",
+      "textEn": "Hope is important because it can make the present moment less difficult to bear.",
+      "textKo": "희망은 현재 순간을 견디기 덜 어렵게 만들 수 있기 때문에 중요하다.",
+      "author": "Thich Nhat Hanh",
+      "authorKo": "틱낫한",
+      "source": "Peace Is Every Step",
+      "sourceKo": "평화로운 발걸음",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "Mindfulness"
+    },
+    {
+      "id": "hop_b011",
+      "textEn": "There is always light. If only we're brave enough to see it. If only we're brave enough to be it.",
+      "textKo": "항상 빛이 있다. 우리가 그것을 볼 만큼 충분히 용감하다면. 우리가 그것이 될 만큼 충분히 용감하다면.",
+      "author": "Amanda Gorman",
+      "authorKo": "아만다 고먼",
+      "source": "The Hill We Climb",
+      "sourceKo": "우리가 오르는 언덕",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "Poetry"
+    },
+    {
+      "id": "hop_b012",
+      "textEn": "Tomorrow is always fresh, with no mistakes in it yet.",
+      "textKo": "내일은 항상 신선하고, 아직 실수가 없다.",
+      "author": "L.M. Montgomery",
+      "authorKo": "L.M. 몽고메리",
+      "source": "Anne of Green Gables",
+      "sourceKo": "빨강 머리 앤",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "hop_b013",
+      "textEn": "Even the darkest night will end and the sun will rise.",
+      "textKo": "가장 어두운 밤도 끝나고 해가 뜰 것이다.",
+      "author": "Victor Hugo",
+      "authorKo": "빅토르 위고",
+      "source": "Les Misérables",
+      "sourceKo": "레미제라블",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "hop_b014",
+      "textEn": "You may not control all the events that happen to you, but you can decide not to be reduced by them.",
+      "textKo": "당신에게 일어나는 모든 사건을 통제할 수는 없지만, 그것들에 의해 줄어들지 않기로 결정할 수 있다.",
+      "author": "Maya Angelou",
+      "authorKo": "마야 안젤루",
+      "source": "Letter to My Daughter",
+      "sourceKo": "딸에게 보내는 편지",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "hop_b015",
+      "textEn": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+      "textKo": "낙관주의는 성취로 이끄는 믿음이다. 희망과 자신감 없이는 아무것도 할 수 없다.",
+      "author": "Helen Keller",
+      "authorKo": "헬렌 켈러",
+      "source": "Optimism",
+      "sourceKo": "낙관주의",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "History"
+    },
+    {
+      "id": "hop_b016",
+      "textEn": "When you have lost hope, you have lost everything. And when you think all is lost, when all is dire and bleak, there is always hope.",
+      "textKo": "희망을 잃었을 때, 당신은 모든 것을 잃은 것이다. 그리고 모든 것이 잃어버린 것 같고, 모든 것이 암담하고 황량할 때, 항상 희망은 있다.",
+      "author": "Pittacus Lore",
+      "authorKo": "피타쿠스 로어",
+      "source": "I Am Number Four",
+      "sourceKo": "나는 넘버 포",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "hop_b017",
+      "textEn": "The road that is built in hope is more pleasant to the traveler than the road built in despair.",
+      "textKo": "희망으로 지어진 길은 절망으로 지어진 길보다 여행자에게 더 즐겁다.",
+      "author": "Marion Zimmer Bradley",
+      "authorKo": "매리언 짐머 브래들리",
+      "source": "The Fall of Atlantis",
+      "sourceKo": "아틀란티스의 멸망",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "Literature"
+    },
+    {
+      "id": "hop_b018",
+      "textEn": "You are not here merely to make a living. You are here in order to enable the world to live more amply.",
+      "textKo": "당신은 단지 생계를 꾸리기 위해 여기 있는 것이 아니다. 당신은 세상이 더 풍요롭게 살 수 있도록 하기 위해 여기 있다.",
+      "author": "Woodrow Wilson",
+      "authorKo": "우드로 윌슨",
+      "source": "Speech",
+      "sourceKo": "연설",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "Leadership"
+    },
+    {
+      "id": "hop_b019",
+      "textEn": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+      "textKo": "한겨울의 깊이에서, 나는 마침내 내 안에 불굴의 여름이 있다는 것을 배웠다.",
+      "author": "Albert Camus",
+      "authorKo": "알베르 카뮈",
+      "source": "Return to Tipasa",
+      "sourceKo": "티파사로의 귀환",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "Philosophy"
+    },
+    {
+      "id": "hop_b020",
+      "textEn": "Keep your face always toward the sunshine and shadows will fall behind you.",
+      "textKo": "항상 햇빛을 향해 얼굴을 두면 그림자는 당신 뒤에 떨어질 것이다.",
+      "author": "Walt Whitman",
+      "authorKo": "월트 휘트먼",
+      "source": "Poetry",
+      "sourceKo": "시",
+      "emotionTags": [
+        "Hope"
+      ],
+      "category": "Poetry"
     }
   ]
 }
