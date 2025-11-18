@@ -1,0 +1,164 @@
+{
+  "quotes": [
+    {
+      "id": "q001",
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations",
+      "emotionTags": ["Struggle", "Motivation", "Reflection"],
+      "category": "Stoicism"
+    },
+    {
+      "id": "q002",
+      "text": "You are not your thoughts. You are the observer of your thoughts.",
+      "author": "Amit Ray",
+      "source": "Mindfulness Meditation",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Mindfulness"
+    },
+    {
+      "id": "q003",
+      "text": "What we think, we become.",
+      "author": "Buddha",
+      "source": "Buddhist Teachings",
+      "emotionTags": ["Hope", "Motivation", "Reflection"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "q004",
+      "text": "The only way out is through.",
+      "author": "Robert Frost",
+      "source": "A Servant to Servants",
+      "emotionTags": ["Struggle", "Motivation"],
+      "category": "Literature"
+    },
+    {
+      "id": "q005",
+      "text": "Gratitude turns what we have into enough.",
+      "author": "Aesop",
+      "source": "Fables",
+      "emotionTags": ["Gratitude", "Joy"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "q006",
+      "text": "You have within you right now, everything you need to deal with whatever the world throws at you.",
+      "author": "Brian Tracy",
+      "source": "Self-Development",
+      "emotionTags": ["Comfort", "Motivation", "Hope"],
+      "category": "Psychology"
+    },
+    {
+      "id": "q007",
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "source": "Speech",
+      "emotionTags": ["Achievement", "Motivation", "Struggle"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "q008",
+      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela",
+      "source": "Long Walk to Freedom",
+      "emotionTags": ["Struggle", "Hope", "Achievement"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "q009",
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Oscar Wilde",
+      "source": "Various Works",
+      "emotionTags": ["Reflection", "Joy", "Hope"],
+      "category": "Literature"
+    },
+    {
+      "id": "q010",
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "source": "Scientific Papers",
+      "emotionTags": ["Struggle", "Hope", "Motivation"],
+      "category": "Science"
+    },
+    {
+      "id": "q011",
+      "text": "The present moment is filled with joy and happiness. If you are attentive, you will see it.",
+      "author": "Thich Nhat Hanh",
+      "source": "Peace Is Every Step",
+      "emotionTags": ["Joy", "Gratitude", "Reflection"],
+      "category": "Mindfulness"
+    },
+    {
+      "id": "q012",
+      "text": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+      "author": "Buddha",
+      "source": "Buddhist Teachings",
+      "emotionTags": ["Comfort", "Gratitude"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "q013",
+      "text": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins",
+      "source": "Motivational Speeches",
+      "emotionTags": ["Motivation", "Hope"],
+      "category": "Psychology"
+    },
+    {
+      "id": "q014",
+      "text": "Everything you've ever wanted is on the other side of fear.",
+      "author": "George Addair",
+      "source": "Personal Development",
+      "emotionTags": ["Comfort", "Motivation", "Hope"],
+      "category": "Psychology"
+    },
+    {
+      "id": "q015",
+      "text": "Happiness is not something ready made. It comes from your own actions.",
+      "author": "Dalai Lama",
+      "source": "The Art of Happiness",
+      "emotionTags": ["Joy", "Reflection", "Hope"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "q016",
+      "text": "The wound is the place where the Light enters you.",
+      "author": "Rumi",
+      "source": "Poetry",
+      "emotionTags": ["Struggle", "Hope", "Reflection"],
+      "category": "Literature"
+    },
+    {
+      "id": "q017",
+      "text": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela",
+      "source": "Speeches",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "q018",
+      "text": "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.",
+      "author": "Rumi",
+      "source": "Poetry",
+      "emotionTags": ["Reflection", "Comfort"],
+      "category": "Literature"
+    },
+    {
+      "id": "q019",
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson",
+      "source": "Essays",
+      "emotionTags": ["Hope", "Motivation", "Reflection"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "q020",
+      "text": "Joy does not simply happen to us. We have to choose joy and keep choosing it every day.",
+      "author": "Henri Nouwen",
+      "source": "The Return of the Prodigal Son",
+      "emotionTags": ["Joy", "Gratitude", "Reflection"],
+      "category": "Philosophy"
+    }
+  ]
+}
