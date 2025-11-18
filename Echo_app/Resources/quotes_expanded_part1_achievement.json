@@ -1,0 +1,804 @@
+{
+  "quotes": [
+    {
+      "id": "ach001",
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "source": "Meditations",
+      "emotionTags": ["Achievement", "Struggle"],
+      "category": "Stoicism"
+    },
+    {
+      "id": "ach002",
+      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
+      "author": "Seneca",
+      "source": "Letters from a Stoic",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Stoicism"
+    },
+    {
+      "id": "ach003",
+      "text": "First say to yourself what you would be; and then do what you have to do.",
+      "author": "Epictetus",
+      "source": "Discourses",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Stoicism"
+    },
+    {
+      "id": "ach004",
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "source": "Speech",
+      "emotionTags": ["Achievement", "Struggle"],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach005",
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "source": "Stanford Commencement Speech",
+      "emotionTags": ["Achievement", "Joy"],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach006",
+      "text": "We cannot become what we want by remaining what we are.",
+      "author": "Max DePree",
+      "source": "Leadership Is an Art",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach007",
+      "text": "Excellence is not a skill. It is an attitude.",
+      "author": "Ralph Marston",
+      "source": "The Daily Motivator",
+      "emotionTags": ["Achievement"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ach008",
+      "text": "The man who moves a mountain begins by carrying away small stones.",
+      "author": "Confucius",
+      "source": "Analects",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Eastern Philosophy"
+    },
+    {
+      "id": "ach009",
+      "text": "He who conquers himself is the mightiest warrior.",
+      "author": "Confucius",
+      "source": "Analects",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Eastern Philosophy"
+    },
+    {
+      "id": "ach010",
+      "text": "The master has failed more times than the beginner has even tried.",
+      "author": "Stephen McCranie",
+      "source": "Comic Strip",
+      "emotionTags": ["Achievement", "Struggle"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "ach011",
+      "text": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky",
+      "source": "Interview",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Sports"
+    },
+    {
+      "id": "ach012",
+      "text": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela",
+      "source": "Speeches",
+      "emotionTags": ["Achievement", "Hope"],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach013",
+      "text": "The greater the difficulty, the more glory in surmounting it.",
+      "author": "Epicurus",
+      "source": "Principal Doctrines",
+      "emotionTags": ["Achievement", "Struggle"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ach014",
+      "text": "Mastery is not a function of genius or talent. It is a function of time and intense focus.",
+      "author": "Robert Greene",
+      "source": "Mastery",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "ach015",
+      "text": "The price of success is hard work, dedication to the job at hand.",
+      "author": "Vince Lombardi",
+      "source": "Coaching Philosophy",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Sports"
+    },
+    {
+      "id": "ach016",
+      "text": "To reach a port we must sail, sometimes with the wind, and sometimes against it.",
+      "author": "Oliver Wendell Holmes",
+      "source": "The Autocrat of the Breakfast Table",
+      "emotionTags": ["Achievement", "Struggle"],
+      "category": "Literature"
+    },
+    {
+      "id": "ach017",
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "source": "Motivational Speeches",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "ach018",
+      "text": "The successful warrior is the average man, with laser-like focus.",
+      "author": "Bruce Lee",
+      "source": "Tao of Jeet Kune Do",
+      "emotionTags": ["Achievement"],
+      "category": "Martial Arts"
+    },
+    {
+      "id": "ach019",
+      "text": "I am not a product of my circumstances. I am a product of my decisions.",
+      "author": "Stephen Covey",
+      "source": "The 7 Habits of Highly Effective People",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "ach020",
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson",
+      "source": "In One Era and Out the Other",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Humor"
+    },
+    {
+      "id": "ach021",
+      "text": "Strength does not come from physical capacity. It comes from an indomitable will.",
+      "author": "Mahatma Gandhi",
+      "source": "Autobiography",
+      "emotionTags": ["Achievement", "Struggle"],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach022",
+      "text": "A champion is defined not by their wins but by how they can recover when they fall.",
+      "author": "Serena Williams",
+      "source": "Interview",
+      "emotionTags": ["Achievement", "Struggle"],
+      "category": "Sports"
+    },
+    {
+      "id": "ach023",
+      "text": "The difference between the impossible and the possible lies in a person's determination.",
+      "author": "Tommy Lasorda",
+      "source": "Coaching Philosophy",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Sports"
+    },
+    {
+      "id": "ach024",
+      "text": "Skill is only developed by hours and hours of work.",
+      "author": "Usain Bolt",
+      "source": "Autobiography",
+      "emotionTags": ["Achievement"],
+      "category": "Sports"
+    },
+    {
+      "id": "ach025",
+      "text": "There is no substitute for hard work.",
+      "author": "Thomas Edison",
+      "source": "Laboratory Notes",
+      "emotionTags": ["Achievement"],
+      "category": "Science"
+    },
+    {
+      "id": "ach026",
+      "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+      "author": "Thomas Edison",
+      "source": "Interview",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Science"
+    },
+    {
+      "id": "ach027",
+      "text": "The only place where success comes before work is in the dictionary.",
+      "author": "Vidal Sassoon",
+      "source": "Interview",
+      "emotionTags": ["Achievement"],
+      "category": "Business"
+    },
+    {
+      "id": "ach028",
+      "text": "Victory belongs to the most persevering.",
+      "author": "Napoleon Bonaparte",
+      "source": "Military Maxims",
+      "emotionTags": ["Achievement", "Struggle"],
+      "category": "History"
+    },
+    {
+      "id": "ach029",
+      "text": "Nothing in the world can take the place of persistence.",
+      "author": "Calvin Coolidge",
+      "source": "Speech",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach030",
+      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela",
+      "source": "Long Walk to Freedom",
+      "emotionTags": ["Achievement", "Struggle"],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach031",
+      "text": "Do not wait to strike till the iron is hot; but make it hot by striking.",
+      "author": "William Butler Yeats",
+      "source": "Poetry",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Literature"
+    },
+    {
+      "id": "ach032",
+      "text": "I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'",
+      "author": "Muhammad Ali",
+      "source": "Interview",
+      "emotionTags": ["Achievement", "Struggle"],
+      "category": "Sports"
+    },
+    {
+      "id": "ach033",
+      "text": "The vision of a champion is bent over, drenched in sweat, at the point of exhaustion, when nobody else is looking.",
+      "author": "Mia Hamm",
+      "source": "Sports Commentary",
+      "emotionTags": ["Achievement"],
+      "category": "Sports"
+    },
+    {
+      "id": "ach034",
+      "text": "If you're offered a seat on a rocket ship, don't ask what seat! Just get on.",
+      "author": "Sheryl Sandberg",
+      "source": "Lean In",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Business"
+    },
+    {
+      "id": "ach035",
+      "text": "I attribute my success to this: I never gave or took any excuse.",
+      "author": "Florence Nightingale",
+      "source": "Letters",
+      "emotionTags": ["Achievement"],
+      "category": "History"
+    },
+    {
+      "id": "ach036",
+      "text": "Quality is not an act, it is a habit.",
+      "author": "Aristotle",
+      "source": "Nicomachean Ethics",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ach037",
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Aristotle",
+      "source": "Nicomachean Ethics",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ach038",
+      "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "source": "Speech",
+      "emotionTags": ["Achievement", "Hope"],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach039",
+      "text": "Build your own dreams, or someone else will hire you to build theirs.",
+      "author": "Farrah Gray",
+      "source": "Reallionaire",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Business"
+    },
+    {
+      "id": "ach040",
+      "text": "The best revenge is massive success.",
+      "author": "Frank Sinatra",
+      "source": "Interview",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Entertainment"
+    },
+    {
+      "id": "ach041",
+      "text": "Either write something worth reading or do something worth writing.",
+      "author": "Benjamin Franklin",
+      "source": "Poor Richard's Almanack",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ach042",
+      "text": "Well done is better than well said.",
+      "author": "Benjamin Franklin",
+      "source": "Poor Richard's Almanack",
+      "emotionTags": ["Achievement"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ach043",
+      "text": "I find that the harder I work, the more luck I seem to have.",
+      "author": "Thomas Jefferson",
+      "source": "Letters",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach044",
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "source": "Speech",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach045",
+      "text": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+      "author": "Roy T. Bennett",
+      "source": "The Light in the Heart",
+      "emotionTags": ["Achievement", "Hope"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "ach046",
+      "text": "If you can dream it, you can do it.",
+      "author": "Walt Disney",
+      "source": "Interview",
+      "emotionTags": ["Achievement", "Hope"],
+      "category": "Business"
+    },
+    {
+      "id": "ach047",
+      "text": "The distance between dreams and reality is called action.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "ach048",
+      "text": "Action is the foundational key to all success.",
+      "author": "Pablo Picasso",
+      "source": "Interview",
+      "emotionTags": ["Achievement"],
+      "category": "Art"
+    },
+    {
+      "id": "ach049",
+      "text": "Inspiration does exist, but it must find you working.",
+      "author": "Pablo Picasso",
+      "source": "Artist Statement",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Art"
+    },
+    {
+      "id": "ach050",
+      "text": "I am always doing that which I cannot do, in order that I may learn how to do it.",
+      "author": "Pablo Picasso",
+      "source": "Artist Statement",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Art"
+    },
+    {
+      "id": "ach051",
+      "text": "Everything you've ever wanted is on the other side of fear.",
+      "author": "George Addair",
+      "source": "Personal Development",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Psychology"
+    },
+    {
+      "id": "ach052",
+      "text": "Whether you think you can or you think you can't, you're right.",
+      "author": "Henry Ford",
+      "source": "Interview",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Business"
+    },
+    {
+      "id": "ach053",
+      "text": "Coming together is a beginning; keeping together is progress; working together is success.",
+      "author": "Henry Ford",
+      "source": "Business Philosophy",
+      "emotionTags": ["Achievement"],
+      "category": "Business"
+    },
+    {
+      "id": "ach054",
+      "text": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain",
+      "source": "Essays",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Literature"
+    },
+    {
+      "id": "ach055",
+      "text": "Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did do.",
+      "author": "Mark Twain",
+      "source": "Letters",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Literature"
+    },
+    {
+      "id": "ach056",
+      "text": "I never dreamed about success. I worked for it.",
+      "author": "Estée Lauder",
+      "source": "Autobiography",
+      "emotionTags": ["Achievement"],
+      "category": "Business"
+    },
+    {
+      "id": "ach057",
+      "text": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Henry David Thoreau",
+      "source": "Walden",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ach058",
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson",
+      "source": "Self-Reliance",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ach059",
+      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson",
+      "source": "Essays",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ach060",
+      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson",
+      "source": "Essays",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ach061",
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "source": "Speeches",
+      "emotionTags": ["Achievement", "Hope"],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach062",
+      "text": "You must do the thing you think you cannot do.",
+      "author": "Eleanor Roosevelt",
+      "source": "You Learn by Living",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach063",
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "source": "Interview",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Business"
+    },
+    {
+      "id": "ach064",
+      "text": "All our dreams can come true, if we have the courage to pursue them.",
+      "author": "Walt Disney",
+      "source": "Disney Archives",
+      "emotionTags": ["Achievement", "Hope"],
+      "category": "Business"
+    },
+    {
+      "id": "ach065",
+      "text": "A goal without a plan is just a wish.",
+      "author": "Antoine de Saint-Exupéry",
+      "source": "The Little Prince",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Literature"
+    },
+    {
+      "id": "ach066",
+      "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill",
+      "source": "Speech",
+      "emotionTags": ["Achievement", "Struggle"],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach067",
+      "text": "Life is 10% what happens to you and 90% how you react to it.",
+      "author": "Charles R. Swindoll",
+      "source": "Sermons",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "ach068",
+      "text": "Courage is not having the strength to go on; it is going on when you don't have the strength.",
+      "author": "Theodore Roosevelt",
+      "source": "Letters",
+      "emotionTags": ["Achievement", "Struggle"],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach069",
+      "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius",
+      "source": "Analects",
+      "emotionTags": ["Achievement", "Struggle"],
+      "category": "Eastern Philosophy"
+    },
+    {
+      "id": "ach070",
+      "text": "The journey of a thousand miles begins with one step.",
+      "author": "Lao Tzu",
+      "source": "Tao Te Ching",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Eastern Philosophy"
+    },
+    {
+      "id": "ach071",
+      "text": "When I let go of what I am, I become what I might be.",
+      "author": "Lao Tzu",
+      "source": "Tao Te Ching",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Eastern Philosophy"
+    },
+    {
+      "id": "ach072",
+      "text": "Knowing others is intelligence; knowing yourself is true wisdom.",
+      "author": "Lao Tzu",
+      "source": "Tao Te Ching",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Eastern Philosophy"
+    },
+    {
+      "id": "ach073",
+      "text": "Do the difficult things while they are easy and do the great things while they are small.",
+      "author": "Lao Tzu",
+      "source": "Tao Te Ching",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Eastern Philosophy"
+    },
+    {
+      "id": "ach074",
+      "text": "I am not what happened to me, I am what I choose to become.",
+      "author": "Carl Jung",
+      "source": "Psychological Writings",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "ach075",
+      "text": "Who looks outside, dreams; who looks inside, awakes.",
+      "author": "Carl Jung",
+      "source": "Memories, Dreams, Reflections",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "ach076",
+      "text": "The privilege of a lifetime is to become who you truly are.",
+      "author": "Carl Jung",
+      "source": "The Development of Personality",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "ach077",
+      "text": "What a man can be, he must be.",
+      "author": "Abraham Maslow",
+      "source": "Motivation and Personality",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "ach078",
+      "text": "One can choose to go back toward safety or forward toward growth.",
+      "author": "Abraham Maslow",
+      "source": "The Farther Reaches of Human Nature",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Psychology"
+    },
+    {
+      "id": "ach079",
+      "text": "In any given moment we have two options: to step forward into growth or step back into safety.",
+      "author": "Abraham Maslow",
+      "source": "Psychology Lectures",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "ach080",
+      "text": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins",
+      "source": "Motivational Seminars",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Psychology"
+    },
+    {
+      "id": "ach081",
+      "text": "Setting goals is the first step in turning the invisible into the visible.",
+      "author": "Tony Robbins",
+      "source": "Awaken the Giant Within",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "ach082",
+      "text": "It's not what we do once in a while that shapes our lives, it's what we do consistently.",
+      "author": "Tony Robbins",
+      "source": "Personal Power",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "ach083",
+      "text": "The scariest moment is always just before you start.",
+      "author": "Stephen King",
+      "source": "On Writing",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Literature"
+    },
+    {
+      "id": "ach084",
+      "text": "Amateurs sit and wait for inspiration, the rest of us just get up and go to work.",
+      "author": "Stephen King",
+      "source": "On Writing",
+      "emotionTags": ["Achievement"],
+      "category": "Literature"
+    },
+    {
+      "id": "ach085",
+      "text": "Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.",
+      "author": "Stephen King",
+      "source": "On Writing",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Literature"
+    },
+    {
+      "id": "ach086",
+      "text": "I have learned over the years that when one's mind is made up, this diminishes fear.",
+      "author": "Rosa Parks",
+      "source": "Autobiography",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "History"
+    },
+    {
+      "id": "ach087",
+      "text": "You don't make progress by standing on the sidelines, whimpering and complaining.",
+      "author": "Shirley Chisholm",
+      "source": "Speeches",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Leadership"
+    },
+    {
+      "id": "ach088",
+      "text": "Service to others is the rent you pay for your room here on earth.",
+      "author": "Muhammad Ali",
+      "source": "Interview",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Sports"
+    },
+    {
+      "id": "ach089",
+      "text": "I know where I'm going and I know the truth, and I don't have to be what you want me to be.",
+      "author": "Muhammad Ali",
+      "source": "Interview",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Sports"
+    },
+    {
+      "id": "ach090",
+      "text": "Champions aren't made in gyms. Champions are made from something they have deep inside them.",
+      "author": "Muhammad Ali",
+      "source": "Autobiography",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Sports"
+    },
+    {
+      "id": "ach091",
+      "text": "The moment you doubt whether you can fly, you cease forever to be able to do it.",
+      "author": "J.M. Barrie",
+      "source": "Peter Pan",
+      "emotionTags": ["Achievement", "Hope"],
+      "category": "Literature"
+    },
+    {
+      "id": "ach092",
+      "text": "Do not wait; the time will never be 'just right.' Start where you stand.",
+      "author": "Napoleon Hill",
+      "source": "Think and Grow Rich",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Business"
+    },
+    {
+      "id": "ach093",
+      "text": "The starting point of all achievement is desire.",
+      "author": "Napoleon Hill",
+      "source": "Think and Grow Rich",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Business"
+    },
+    {
+      "id": "ach094",
+      "text": "Every great achievement was once considered impossible.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Achievement", "Hope"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "ach095",
+      "text": "The expert in anything was once a beginner.",
+      "author": "Helen Hayes",
+      "source": "Interview",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Entertainment"
+    },
+    {
+      "id": "ach096",
+      "text": "Success is the sum of small efforts repeated day in and day out.",
+      "author": "Robert Collier",
+      "source": "The Secret of the Ages",
+      "emotionTags": ["Achievement", "Reflection"],
+      "category": "Business"
+    },
+    {
+      "id": "ach097",
+      "text": "Your limitation—it's only your imagination.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "ach098",
+      "text": "Great things never come from comfort zones.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "ach099",
+      "text": "Dream it. Wish it. Do it.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "ach100",
+      "text": "Push yourself, because no one else is going to do it for you.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Achievement", "Motivation"],
+      "category": "Modern Wisdom"
+    }
+  ]
+}
