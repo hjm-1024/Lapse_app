@@ -8,6 +8,7 @@
 
 import SwiftUI
 import SwiftData
+import UIKit
 
 /// Settings screen for app preferences and information
 /// Based on SRS Section 3.2.4 - Screen 4: Settings

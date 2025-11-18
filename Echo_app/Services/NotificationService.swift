@@ -95,6 +95,13 @@ final class NotificationService {
         print("🗑️ Cancelled notification: \(notificationID)")
     }
 
+    /// Cancel all pending notifications
+    /// Used when clearing all data in Settings
+    func cancelAllNotifications() async {
+        notificationCenter.removeAllPendingNotificationRequests()
+        print("🗑️ Cancelled all pending notifications")
+    }
+
     /// Get count of pending notifications
     /// Used to check 64-notification limit
     /// Based on SRS Section 4.5 - iOS Notification Limit Handling

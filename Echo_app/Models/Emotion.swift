@@ -66,7 +66,12 @@ enum Emotion: String, Codable, CaseIterable {
         }
     }
 
-    /// User-facing description
+    /// User-facing label (short)
+    var label: String {
+        return self.rawValue
+    }
+
+    /// User-facing description (detailed)
     var description: String {
         switch self {
         case .achievement:
