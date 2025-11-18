@@ -150,18 +150,40 @@ struct RevelationView: View {
                 Text("Wisdom")
                     .font(.system(size: 15, weight: .semibold))
                     .foregroundColor(Color("PrimaryText"))
+
+                Spacer()
+
+                Text(quote.category.korean)
+                    .font(.system(size: 12, weight: .regular))
+                    .foregroundColor(Color("TertiaryText"))
             }
 
-            VStack(alignment: .leading, spacing: 12) {
-                Text(quote.text)
+            VStack(alignment: .leading, spacing: 16) {
+                // English quote
+                Text(quote.textEn)
                     .font(.system(size: 17, weight: .regular, design: .serif))
                     .foregroundColor(Color("PrimaryText"))
                     .italic()
                     .lineSpacing(6)
 
-                Text("— \(quote.author)")
-                    .font(.system(size: 15, weight: .medium))
+                // Korean quote
+                Text(quote.textKo)
+                    .font(.system(size: 15, weight: .regular, design: .default))
                     .foregroundColor(Color("SecondaryText"))
+                    .lineSpacing(5)
+
+                // Author
+                HStack(spacing: 4) {
+                    Text("— \(quote.author)")
+                        .font(.system(size: 15, weight: .medium))
+                        .foregroundColor(Color("SecondaryText"))
+
+                    if let authorKo = quote.authorKo {
+                        Text("(\(authorKo))")
+                            .font(.system(size: 13, weight: .regular))
+                            .foregroundColor(Color("TertiaryText"))
+                    }
+                }
             }
             .padding(.top, 8)
         }
