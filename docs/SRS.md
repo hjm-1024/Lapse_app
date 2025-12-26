@@ -3,7 +3,7 @@
 
 **Document Version:** 2.0
 **Date:** 2025-11-18
-**Project:** Echo_app (formerly Lapse_app)
+**Project:** Echo_app
 **Standard:** IEEE 830-1998 (Adapted)
 
 ---
@@ -1422,8 +1422,8 @@ Echo_app is **not a medical device** and does not claim to treat mental illness.
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
-| 1.0 | 2025-11-18 | PM | Initial SRS for Lapse_app (365-day time capsule concept) |
-| 2.0 | 2025-11-18 | PM | Major pivot to Echo_app (Ebbinghaus-based memory reinforcement) |
+| 1.0 | 2025-11-18 | PM | Initial SRS (365-day time capsule concept, originally named Lapse_app) |
+| 2.0 | 2025-11-18 | PM | Major pivot and rename to Echo_app (Ebbinghaus-based memory reinforcement, flexible delay intervals) |
 
 ---
 
