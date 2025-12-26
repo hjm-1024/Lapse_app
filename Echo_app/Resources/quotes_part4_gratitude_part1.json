@@ -1,0 +1,24 @@
+{
+  "quotes": [
+    {"id": "grat001", "text": "Gratitude turns what we have into enough.", "author": "Aesop", "source": "Fables", "emotionTags": ["Gratitude"], "category": "Philosophy"},
+    {"id": "grat002", "text": "When you arise in the morning, think of what a precious privilege it is to be alive.", "author": "Marcus Aurelius", "source": "Meditations", "emotionTags": ["Gratitude", "Reflection"], "category": "Stoicism"},
+    {"id": "grat003", "text": "Gratitude is not only the greatest of virtues, but the parent of all others.", "author": "Cicero", "source": "Pro Plancio", "emotionTags": ["Gratitude"], "category": "Philosophy"},
+    {"id": "grat004", "text": "Enjoy the little things, for one day you may look back and realize they were the big things.", "author": "Robert Brault", "source": "Round Up", "emotionTags": ["Gratitude", "Joy"], "category": "Modern Wisdom"},
+    {"id": "grat005", "text": "Wear gratitude like a cloak and it will feed every corner of your life.", "author": "Rumi", "source": "Poetry", "emotionTags": ["Gratitude"], "category": "Poetry"},
+    {"id": "grat006", "text": "The roots of all goodness lie in the soil of appreciation for goodness.", "author": "Dalai Lama", "source": "The Art of Happiness", "emotionTags": ["Gratitude", "Reflection"], "category": "Spirituality"},
+    {"id": "grat007", "text": "Let us be grateful to the people who make us happy; they are the charming gardeners who make our souls blossom.", "author": "Marcel Proust", "source": "Remembrance of Things Past", "emotionTags": ["Gratitude"], "category": "Literature"},
+    {"id": "grat008", "text": "Joy does not simply happen to us. We have to choose joy and keep choosing it every day.", "author": "Henri Nouwen", "source": "The Return of the Prodigal Son", "emotionTags": ["Gratitude", "Joy"], "category": "Spirituality"},
+    {"id": "grat009", "text": "Gratitude is the fairest blossom which springs from the soul.", "author": "Henry Ward Beecher", "source": "Sermons", "emotionTags": ["Gratitude"], "category": "Philosophy"},
+    {"id": "grat010", "text": "When I started counting my blessings, my whole life turned around.", "author": "Willie Nelson", "source": "Interview", "emotionTags": ["Gratitude", "Reflection"], "category": "Music"},
+    {"id": "grat011", "text": "The struggle ends when gratitude begins.", "author": "Neale Donald Walsch", "source": "Conversations with God", "emotionTags": ["Gratitude", "Reflection"], "category": "Spirituality"},
+    {"id": "grat012", "text": "Acknowledging the good that you already have in your life is the foundation for all abundance.", "author": "Eckhart Tolle", "source": "A New Earth", "emotionTags": ["Gratitude"], "category": "Spirituality"},
+    {"id": "grat013", "text": "Be thankful for what you have; you'll end up having more.", "author": "Oprah Winfrey", "source": "What I Know For Sure", "emotionTags": ["Gratitude"], "category": "Modern Wisdom"},
+    {"id": "grat014", "text": "The thankful receiver bears a plentiful harvest.", "author": "William Blake", "source": "Proverbs of Hell", "emotionTags": ["Gratitude"], "category": "Poetry"},
+    {"id": "grat015", "text": "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.", "author": "Melody Beattie", "source": "The Language of Letting Go", "emotionTags": ["Gratitude", "Hope"], "category": "Psychology"},
+    {"id": "grat016", "text": "In ordinary life, we hardly realize that we receive a great deal more than we give.", "author": "Dietrich Bonhoeffer", "source": "Letters and Papers from Prison", "emotionTags": ["Gratitude", "Reflection"], "category": "Philosophy"},
+    {"id": "grat017", "text": "Silent gratitude isn't very much to anyone.", "author": "Gertrude Stein", "source": "Writings", "emotionTags": ["Gratitude"], "category": "Literature"},
+    {"id": "grat018", "text": "The best way to pay for a lovely moment is to enjoy it.", "author": "Richard Bach", "source": "Illusions", "emotionTags": ["Gratitude", "Joy"], "category": "Literature"},
+    {"id": "grat019", "text": "Gratitude is the healthiest of all human emotions.", "author": "Zig Ziglar", "source": "Motivational Speeches", "emotionTags": ["Gratitude"], "category": "Psychology"},
+    {"id": "grat020", "text": "Feeling gratitude and not expressing it is like wrapping a present and not giving it.", "author": "William Arthur Ward", "source": "Thoughts of a Christian Optimist", "emotionTags": ["Gratitude"], "category": "Philosophy"}
+  ]
+}

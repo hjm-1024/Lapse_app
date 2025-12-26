@@ -1,0 +1,804 @@
+{
+  "quotes": [
+    {
+      "id": "mot001",
+      "text": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins",
+      "source": "Motivational Seminars",
+      "emotionTags": ["Motivation", "Hope"],
+      "category": "Psychology"
+    },
+    {
+      "id": "mot002",
+      "text": "Don't count the days. Make the days count.",
+      "author": "Muhammad Ali",
+      "source": "Interview",
+      "emotionTags": ["Motivation"],
+      "category": "Sports"
+    },
+    {
+      "id": "mot003",
+      "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "author": "Chinese Proverb",
+      "source": "Ancient Wisdom",
+      "emotionTags": ["Motivation"],
+      "category": "Eastern Philosophy"
+    },
+    {
+      "id": "mot004",
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "source": "Essays",
+      "emotionTags": ["Motivation", "Hope"],
+      "category": "Literature"
+    },
+    {
+      "id": "mot005",
+      "text": "Do it now. Sometimes 'later' becomes 'never'.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot006",
+      "text": "A year from now you may wish you had started today.",
+      "author": "Karen Lamb",
+      "source": "Motivational Writing",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot007",
+      "text": "The hard days are what make you stronger.",
+      "author": "Aly Raisman",
+      "source": "Fierce",
+      "emotionTags": ["Motivation", "Struggle"],
+      "category": "Sports"
+    },
+    {
+      "id": "mot008",
+      "text": "Motivation is what gets you started. Habit is what keeps you going.",
+      "author": "Jim Ryun",
+      "source": "Running Philosophy",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Sports"
+    },
+    {
+      "id": "mot009",
+      "text": "Push harder than yesterday if you want a different tomorrow.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot010",
+      "text": "Don't stop when you're tired. Stop when you're done.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot011",
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "source": "Analects",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Eastern Philosophy"
+    },
+    {
+      "id": "mot012",
+      "text": "The future depends on what you do today.",
+      "author": "Mahatma Gandhi",
+      "source": "Speeches",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Leadership"
+    },
+    {
+      "id": "mot013",
+      "text": "If you want something you've never had, you must be willing to do something you've never done.",
+      "author": "Thomas Jefferson",
+      "source": "Letters",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Leadership"
+    },
+    {
+      "id": "mot014",
+      "text": "Dream big. Start small. Act now.",
+      "author": "Robin Sharma",
+      "source": "The Leader Who Had No Title",
+      "emotionTags": ["Motivation"],
+      "category": "Business"
+    },
+    {
+      "id": "mot015",
+      "text": "The harder the battle, the sweeter the victory.",
+      "author": "Les Brown",
+      "source": "Motivational Speeches",
+      "emotionTags": ["Motivation", "Struggle"],
+      "category": "Psychology"
+    },
+    {
+      "id": "mot016",
+      "text": "Go the extra mile. It's never crowded.",
+      "author": "Wayne Dyer",
+      "source": "Self-Development Books",
+      "emotionTags": ["Motivation"],
+      "category": "Psychology"
+    },
+    {
+      "id": "mot017",
+      "text": "Your only limit is you.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot018",
+      "text": "What seems impossible today will one day become your warm-up.",
+      "author": "Unknown",
+      "source": "Fitness Wisdom",
+      "emotionTags": ["Motivation", "Achievement"],
+      "category": "Sports"
+    },
+    {
+      "id": "mot019",
+      "text": "Success doesn't just find you. You have to go out and get it.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot020",
+      "text": "Make each day your masterpiece.",
+      "author": "John Wooden",
+      "source": "Coaching Philosophy",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Sports"
+    },
+    {
+      "id": "mot021",
+      "text": "Things may come to those who wait, but only the things left by those who hustle.",
+      "author": "Abraham Lincoln",
+      "source": "Speeches",
+      "emotionTags": ["Motivation"],
+      "category": "Leadership"
+    },
+    {
+      "id": "mot022",
+      "text": "Don't wish for it. Work for it.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot023",
+      "text": "Your limitation—it's only your imagination.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot024",
+      "text": "Wake up with determination. Go to bed with satisfaction.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot025",
+      "text": "Do something today that your future self will thank you for.",
+      "author": "Sean Patrick Flanery",
+      "source": "Jane Two",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot026",
+      "text": "Little things make big days.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation", "Gratitude"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot027",
+      "text": "Strive for progress, not perfection.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot028",
+      "text": "One day or day one. You decide.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot029",
+      "text": "It's going to be hard, but hard does not mean impossible.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation", "Hope"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot030",
+      "text": "Be stronger than your excuses.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot031",
+      "text": "Excuses don't burn calories.",
+      "author": "Unknown",
+      "source": "Fitness Wisdom",
+      "emotionTags": ["Motivation"],
+      "category": "Sports"
+    },
+    {
+      "id": "mot032",
+      "text": "I will. I am.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot033",
+      "text": "Today is a good day to try.",
+      "author": "Quasimoto",
+      "source": "Music",
+      "emotionTags": ["Motivation"],
+      "category": "Music"
+    },
+    {
+      "id": "mot034",
+      "text": "Don't wait for opportunity. Create it.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot035",
+      "text": "Sometimes we're tested not to show our weaknesses, but to discover our strengths.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot036",
+      "text": "The key to success is to focus on goals, not obstacles.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot037",
+      "text": "Good things come to those who hustle.",
+      "author": "Anais Nin",
+      "source": "The Diary of Anaïs Nin",
+      "emotionTags": ["Motivation"],
+      "category": "Literature"
+    },
+    {
+      "id": "mot038",
+      "text": "Be the energy you want to attract.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot039",
+      "text": "Stay focused and never give up.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot040",
+      "text": "Be patient with yourself. Nothing in nature blooms all year.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation", "Comfort"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot041",
+      "text": "You didn't come this far to only come this far.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot042",
+      "text": "If it doesn't challenge you, it won't change you.",
+      "author": "Fred DeVito",
+      "source": "Fitness Philosophy",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Sports"
+    },
+    {
+      "id": "mot043",
+      "text": "Make today so awesome yesterday gets jealous.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation", "Joy"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot044",
+      "text": "Doubt kills more dreams than failure ever will.",
+      "author": "Suzy Kassem",
+      "source": "Rise Up and Salute the Sun",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Poetry"
+    },
+    {
+      "id": "mot045",
+      "text": "The comeback is always stronger than the setback.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation", "Hope"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot046",
+      "text": "Believe in yourself a little more.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation", "Comfort"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot047",
+      "text": "You are capable of amazing things.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot048",
+      "text": "Don't stop until you're proud.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation", "Achievement"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot049",
+      "text": "Turn your can'ts into cans and your dreams into plans.",
+      "author": "Kobi Yamada",
+      "source": "Inspirational Books",
+      "emotionTags": ["Motivation", "Hope"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot050",
+      "text": "If opportunity doesn't knock, build a door.",
+      "author": "Milton Berle",
+      "source": "Comedy",
+      "emotionTags": ["Motivation"],
+      "category": "Humor"
+    },
+    {
+      "id": "mot051",
+      "text": "Life is 10% what happens to us and 90% how we react to it.",
+      "author": "Charles R. Swindoll",
+      "source": "Sermons",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "mot052",
+      "text": "Don't let yesterday take up too much of today.",
+      "author": "Will Rogers",
+      "source": "Quotes",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Humor"
+    },
+    {
+      "id": "mot053",
+      "text": "You are what you do, not what you say you'll do.",
+      "author": "Carl Jung",
+      "source": "Psychological Writings",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "mot054",
+      "text": "Everything you can imagine is real.",
+      "author": "Pablo Picasso",
+      "source": "Artist Statement",
+      "emotionTags": ["Motivation", "Hope"],
+      "category": "Art"
+    },
+    {
+      "id": "mot055",
+      "text": "Wherever you go, go with all your heart.",
+      "author": "Confucius",
+      "source": "Analects",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Eastern Philosophy"
+    },
+    {
+      "id": "mot056",
+      "text": "Turn your wounds into wisdom.",
+      "author": "Oprah Winfrey",
+      "source": "What I Know For Sure",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot057",
+      "text": "An unexamined life is not worth living.",
+      "author": "Socrates",
+      "source": "Plato's Apology",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "mot058",
+      "text": "Everything has beauty, but not everyone can see.",
+      "author": "Confucius",
+      "source": "Analects",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Eastern Philosophy"
+    },
+    {
+      "id": "mot059",
+      "text": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+      "author": "Mahatma Gandhi",
+      "source": "Autobiography",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Leadership"
+    },
+    {
+      "id": "mot060",
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "source": "Buddhist Teachings",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "mot061",
+      "text": "The time is always right to do what is right.",
+      "author": "Martin Luther King Jr.",
+      "source": "Speeches",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Leadership"
+    },
+    {
+      "id": "mot062",
+      "text": "Life isn't about finding yourself. Life is about creating yourself.",
+      "author": "George Bernard Shaw",
+      "source": "Plays",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Literature"
+    },
+    {
+      "id": "mot063",
+      "text": "A creative man is motivated by the desire to achieve, not by the desire to beat others.",
+      "author": "Ayn Rand",
+      "source": "The Fountainhead",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Literature"
+    },
+    {
+      "id": "mot064",
+      "text": "Challenges are what make life interesting. Overcoming them is what makes life meaningful.",
+      "author": "Joshua J. Marine",
+      "source": "Motivational Writing",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot065",
+      "text": "You must be the change you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "source": "Speeches",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Leadership"
+    },
+    {
+      "id": "mot066",
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson",
+      "source": "Self-Reliance",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "mot067",
+      "text": "Set your goals high, and don't stop till you get there.",
+      "author": "Bo Jackson",
+      "source": "Interview",
+      "emotionTags": ["Motivation"],
+      "category": "Sports"
+    },
+    {
+      "id": "mot068",
+      "text": "If you really look closely, most overnight successes took a long time.",
+      "author": "Steve Jobs",
+      "source": "Interview",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Business"
+    },
+    {
+      "id": "mot069",
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "source": "Interview",
+      "emotionTags": ["Motivation"],
+      "category": "Business"
+    },
+    {
+      "id": "mot070",
+      "text": "Don't let perfection become procrastination. Do it now.",
+      "author": "Danielle LaPorte",
+      "source": "The Desire Map",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot071",
+      "text": "Whether you think you can or you think you can't, you're right.",
+      "author": "Henry Ford",
+      "source": "Interview",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Business"
+    },
+    {
+      "id": "mot072",
+      "text": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+      "author": "Walt Whitman",
+      "source": "Poetry",
+      "emotionTags": ["Motivation", "Hope"],
+      "category": "Poetry"
+    },
+    {
+      "id": "mot073",
+      "text": "It's not whether you get knocked down, it's whether you get up.",
+      "author": "Vince Lombardi",
+      "source": "Coaching Philosophy",
+      "emotionTags": ["Motivation", "Struggle"],
+      "category": "Sports"
+    },
+    {
+      "id": "mot074",
+      "text": "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you.",
+      "author": "Steve Jobs",
+      "source": "Stanford Speech",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Business"
+    },
+    {
+      "id": "mot075",
+      "text": "We may encounter many defeats but we must not be defeated.",
+      "author": "Maya Angelou",
+      "source": "Interviews",
+      "emotionTags": ["Motivation", "Hope"],
+      "category": "Literature"
+    },
+    {
+      "id": "mot076",
+      "text": "The question isn't who is going to let me; it's who is going to stop me.",
+      "author": "Ayn Rand",
+      "source": "The Fountainhead",
+      "emotionTags": ["Motivation"],
+      "category": "Literature"
+    },
+    {
+      "id": "mot077",
+      "text": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "source": "Psychology Lectures",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "mot078",
+      "text": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+      "author": "Roy T. Bennett",
+      "source": "The Light in the Heart",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot079",
+      "text": "What we fear doing most is usually what we most need to do.",
+      "author": "Tim Ferriss",
+      "source": "The 4-Hour Workweek",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Business"
+    },
+    {
+      "id": "mot080",
+      "text": "Take the risk or lose the chance.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot081",
+      "text": "Do one thing every day that scares you.",
+      "author": "Eleanor Roosevelt",
+      "source": "You Learn by Living",
+      "emotionTags": ["Motivation"],
+      "category": "Leadership"
+    },
+    {
+      "id": "mot082",
+      "text": "Happiness is not by chance, but by choice.",
+      "author": "Jim Rohn",
+      "source": "Personal Development Seminars",
+      "emotionTags": ["Motivation", "Joy"],
+      "category": "Psychology"
+    },
+    {
+      "id": "mot083",
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "source": "Speech",
+      "emotionTags": ["Motivation", "Hope"],
+      "category": "Leadership"
+    },
+    {
+      "id": "mot084",
+      "text": "You get what you give. What you put into things is what you get out of them.",
+      "author": "Jennifer Lopez",
+      "source": "Interview",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Entertainment"
+    },
+    {
+      "id": "mot085",
+      "text": "The only way to achieve the impossible is to believe it is possible.",
+      "author": "Charles Kingsleigh",
+      "source": "Alice in Wonderland",
+      "emotionTags": ["Motivation", "Hope"],
+      "category": "Literature"
+    },
+    {
+      "id": "mot086",
+      "text": "You are braver than you believe, stronger than you seem, smarter than you think.",
+      "author": "A.A. Milne",
+      "source": "Winnie the Pooh",
+      "emotionTags": ["Motivation", "Comfort"],
+      "category": "Literature"
+    },
+    {
+      "id": "mot087",
+      "text": "Change your thoughts and you change your world.",
+      "author": "Norman Vincent Peale",
+      "source": "The Power of Positive Thinking",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "mot088",
+      "text": "The harder you work for something, the greater you'll feel when you achieve it.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation", "Achievement"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot089",
+      "text": "Dream bigger. Do bigger.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation", "Hope"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot090",
+      "text": "Don't watch the clock. Do what it does. Keep going.",
+      "author": "Sam Levenson",
+      "source": "In One Era and Out the Other",
+      "emotionTags": ["Motivation"],
+      "category": "Humor"
+    },
+    {
+      "id": "mot091",
+      "text": "A goal without a plan is just a wish.",
+      "author": "Antoine de Saint-Exupéry",
+      "source": "The Little Prince",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Literature"
+    },
+    {
+      "id": "mot092",
+      "text": "Take the first step in faith. You don't have to see the whole staircase.",
+      "author": "Martin Luther King Jr.",
+      "source": "Sermon",
+      "emotionTags": ["Motivation", "Hope"],
+      "category": "Leadership"
+    },
+    {
+      "id": "mot093",
+      "text": "Keep going. Everything you need will come to you at the perfect time.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation", "Hope"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot094",
+      "text": "Strength doesn't come from what you can do. It comes from overcoming the things you once thought you couldn't.",
+      "author": "Rikki Rogers",
+      "source": "Motivational Writing",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot095",
+      "text": "No matter how you feel, get up, dress up, show up, and never give up.",
+      "author": "Regina Brett",
+      "source": "God Never Blinks",
+      "emotionTags": ["Motivation"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot096",
+      "text": "Work hard in silence. Let success make the noise.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "mot097",
+      "text": "The secret to getting ahead is getting started.",
+      "author": "Mark Twain",
+      "source": "Essays",
+      "emotionTags": ["Motivation"],
+      "category": "Literature"
+    },
+    {
+      "id": "mot098",
+      "text": "It's not about perfect. It's about effort.",
+      "author": "Jillian Michaels",
+      "source": "Fitness Philosophy",
+      "emotionTags": ["Motivation", "Reflection"],
+      "category": "Sports"
+    },
+    {
+      "id": "mot099",
+      "text": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe",
+      "source": "Tennis Philosophy",
+      "emotionTags": ["Motivation"],
+      "category": "Sports"
+    },
+    {
+      "id": "mot100",
+      "text": "You don't have to be great to start, but you have to start to be great.",
+      "author": "Zig Ziglar",
+      "source": "Motivational Speeches",
+      "emotionTags": ["Motivation"],
+      "category": "Psychology"
+    }
+  ]
+}

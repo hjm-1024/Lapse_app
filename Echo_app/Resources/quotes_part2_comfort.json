@@ -1,0 +1,804 @@
+{
+  "quotes": [
+    {
+      "id": "com001",
+      "text": "You are not your thoughts. You are the observer of your thoughts.",
+      "author": "Amit Ray",
+      "source": "Mindfulness Meditation",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Mindfulness"
+    },
+    {
+      "id": "com002",
+      "text": "This too shall pass.",
+      "author": "Persian Proverb",
+      "source": "Ancient Wisdom",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "com003",
+      "text": "Be gentle with yourself. You're doing the best you can.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com004",
+      "text": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+      "author": "Buddha",
+      "source": "Buddhist Teachings",
+      "emotionTags": ["Comfort", "Gratitude"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "com005",
+      "text": "Sometimes the most productive thing you can do is relax.",
+      "author": "Mark Black",
+      "source": "Wellness Philosophy",
+      "emotionTags": ["Comfort"],
+      "category": "Psychology"
+    },
+    {
+      "id": "com006",
+      "text": "Feelings are just visitors. Let them come and go.",
+      "author": "Mooji",
+      "source": "Spiritual Teachings",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Spirituality"
+    },
+    {
+      "id": "com007",
+      "text": "Almost everything will work again if you unplug it for a few minutes, including you.",
+      "author": "Anne Lamott",
+      "source": "Bird by Bird",
+      "emotionTags": ["Comfort"],
+      "category": "Literature"
+    },
+    {
+      "id": "com008",
+      "text": "You don't have to see the whole staircase, just take the first step.",
+      "author": "Martin Luther King Jr.",
+      "source": "Sermon",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Leadership"
+    },
+    {
+      "id": "com009",
+      "text": "Nothing can harm you as much as your own thoughts unguarded.",
+      "author": "Buddha",
+      "source": "Dhammapada",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "com010",
+      "text": "Talk to yourself like you would to someone you love.",
+      "author": "Brené Brown",
+      "source": "The Gifts of Imperfection",
+      "emotionTags": ["Comfort"],
+      "category": "Psychology"
+    },
+    {
+      "id": "com011",
+      "text": "Worrying does not empty tomorrow of its troubles. It empties today of its strength.",
+      "author": "Corrie ten Boom",
+      "source": "The Hiding Place",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Literature"
+    },
+    {
+      "id": "com012",
+      "text": "Between stimulus and response there is a space. In that space is our power to choose.",
+      "author": "Viktor Frankl",
+      "source": "Man's Search for Meaning",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "com013",
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha",
+      "source": "Buddhist Teachings",
+      "emotionTags": ["Comfort"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "com014",
+      "text": "The curious paradox is that when I accept myself just as I am, then I can change.",
+      "author": "Carl Rogers",
+      "source": "On Becoming a Person",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "com015",
+      "text": "Breathe. Let go. And remind yourself that this very moment is the only one you know you have for sure.",
+      "author": "Oprah Winfrey",
+      "source": "Interview",
+      "emotionTags": ["Comfort"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com016",
+      "text": "You have within you right now, everything you need to deal with whatever the world throws at you.",
+      "author": "Brian Tracy",
+      "source": "Self-Development",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Psychology"
+    },
+    {
+      "id": "com017",
+      "text": "The present moment is filled with joy and happiness. If you are attentive, you will see it.",
+      "author": "Thich Nhat Hanh",
+      "source": "Peace Is Every Step",
+      "emotionTags": ["Comfort", "Joy"],
+      "category": "Mindfulness"
+    },
+    {
+      "id": "com018",
+      "text": "Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.",
+      "author": "Thich Nhat Hanh",
+      "source": "Stepping into Freedom",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Mindfulness"
+    },
+    {
+      "id": "com019",
+      "text": "Everything you've ever wanted is on the other side of fear.",
+      "author": "George Addair",
+      "source": "Personal Development",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Psychology"
+    },
+    {
+      "id": "com020",
+      "text": "Anxiety is love's greatest killer. It makes others feel as you might when a drowning man holds on to you.",
+      "author": "Anaïs Nin",
+      "source": "The Diary of Anaïs Nin",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Literature"
+    },
+    {
+      "id": "com021",
+      "text": "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.",
+      "author": "Rumi",
+      "source": "Poetry",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Poetry"
+    },
+    {
+      "id": "com022",
+      "text": "The wound is the place where the Light enters you.",
+      "author": "Rumi",
+      "source": "Poetry",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Poetry"
+    },
+    {
+      "id": "com023",
+      "text": "You are the sky. Everything else is just the weather.",
+      "author": "Pema Chödrön",
+      "source": "When Things Fall Apart",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Mindfulness"
+    },
+    {
+      "id": "com024",
+      "text": "Nothing ever goes away until it teaches us what we need to know.",
+      "author": "Pema Chödrön",
+      "source": "When Things Fall Apart",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Mindfulness"
+    },
+    {
+      "id": "com025",
+      "text": "The most fundamental aggression to ourselves is to not remain true to ourselves.",
+      "author": "Pema Chödrön",
+      "source": "The Wisdom of No Escape",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Mindfulness"
+    },
+    {
+      "id": "com026",
+      "text": "You are braver than you believe, stronger than you seem, and smarter than you think.",
+      "author": "A.A. Milne",
+      "source": "Winnie the Pooh",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Literature"
+    },
+    {
+      "id": "com027",
+      "text": "Sometimes the smallest step in the right direction ends up being the biggest step of your life.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com028",
+      "text": "It's okay to not be okay, as long as you are not giving up.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com029",
+      "text": "Your mind will answer most questions if you learn to relax and wait for the answer.",
+      "author": "William S. Burroughs",
+      "source": "Interview",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Literature"
+    },
+    {
+      "id": "com030",
+      "text": "Take rest; a field that has rested gives a bountiful crop.",
+      "author": "Ovid",
+      "source": "Ars Amatoria",
+      "emotionTags": ["Comfort"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "com031",
+      "text": "There is a crack in everything. That's how the light gets in.",
+      "author": "Leonard Cohen",
+      "source": "Anthem (Song)",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Music"
+    },
+    {
+      "id": "com032",
+      "text": "When you can't control what's happening, challenge yourself to control the way you respond.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com033",
+      "text": "One small crack does not mean that you are broken, it means that you were put to the test and you didn't fall apart.",
+      "author": "Linda Poindexter",
+      "source": "Poetry",
+      "emotionTags": ["Comfort"],
+      "category": "Poetry"
+    },
+    {
+      "id": "com034",
+      "text": "You don't have to be positive all the time. It's perfectly okay to feel sad, angry, annoyed, frustrated, scared and anxious.",
+      "author": "Lori Deschene",
+      "source": "Tiny Buddha",
+      "emotionTags": ["Comfort"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com035",
+      "text": "Tough times never last, but tough people do.",
+      "author": "Robert H. Schuller",
+      "source": "Tough Times Never Last",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Psychology"
+    },
+    {
+      "id": "com036",
+      "text": "The oak fought the wind and was broken, the willow bent when it must and survived.",
+      "author": "Robert Jordan",
+      "source": "The Fires of Heaven",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Literature"
+    },
+    {
+      "id": "com037",
+      "text": "Self-care is how you take your power back.",
+      "author": "Lalah Delia",
+      "source": "Vibrate Higher Daily",
+      "emotionTags": ["Comfort"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com038",
+      "text": "You owe yourself the love that you so freely give to other people.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com039",
+      "text": "Be patient with yourself. Self-growth is tender; it's holy ground. There's no greater investment.",
+      "author": "Stephen Covey",
+      "source": "The 7 Habits",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "com040",
+      "text": "Sometimes you need to step outside, get some air, and remind yourself of who you are and where you want to be.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com041",
+      "text": "It's not the load that breaks you down, it's the way you carry it.",
+      "author": "Lou Holtz",
+      "source": "Coaching Philosophy",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Sports"
+    },
+    {
+      "id": "com042",
+      "text": "Today you are You, that is truer than true. There is no one alive who is Youer than You.",
+      "author": "Dr. Seuss",
+      "source": "Happy Birthday to You!",
+      "emotionTags": ["Comfort", "Joy"],
+      "category": "Literature"
+    },
+    {
+      "id": "com043",
+      "text": "Stars can't shine without darkness.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com044",
+      "text": "Sometimes the most important thing in a whole day is the rest we take between two deep breaths.",
+      "author": "Etty Hillesum",
+      "source": "An Interrupted Life",
+      "emotionTags": ["Comfort"],
+      "category": "Literature"
+    },
+    {
+      "id": "com045",
+      "text": "If you're going through hell, keep going.",
+      "author": "Winston Churchill",
+      "source": "Speech",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Leadership"
+    },
+    {
+      "id": "com046",
+      "text": "The only way out is through.",
+      "author": "Robert Frost",
+      "source": "A Servant to Servants",
+      "emotionTags": ["Comfort"],
+      "category": "Poetry"
+    },
+    {
+      "id": "com047",
+      "text": "Promise me you'll always remember: You're braver than you believe, and stronger than you seem.",
+      "author": "Christopher Robin",
+      "source": "Winnie the Pooh",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Literature"
+    },
+    {
+      "id": "com048",
+      "text": "Calmness is the cradle of power.",
+      "author": "Josiah Gilbert Holland",
+      "source": "Gold-Foil",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Literature"
+    },
+    {
+      "id": "com049",
+      "text": "You don't have to be perfect to be amazing.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com050",
+      "text": "Healing doesn't mean the damage never existed. It means the damage no longer controls our lives.",
+      "author": "Akshay Dubey",
+      "source": "The Stardust Family",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com051",
+      "text": "Sometimes you just need to slow down, take a deep breath, and remind yourself: I am human, and that's okay.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com052",
+      "text": "You are enough just as you are.",
+      "author": "Meghan Markle",
+      "source": "Speech",
+      "emotionTags": ["Comfort"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com053",
+      "text": "You cannot always control what goes on outside. But you can always control what goes on inside.",
+      "author": "Wayne Dyer",
+      "source": "Change Your Thoughts",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "com054",
+      "text": "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
+      "author": "Henry Ford",
+      "source": "Interview",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Business"
+    },
+    {
+      "id": "com055",
+      "text": "Even the darkest night will end and the sun will rise.",
+      "author": "Victor Hugo",
+      "source": "Les Misérables",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Literature"
+    },
+    {
+      "id": "com056",
+      "text": "Pain is inevitable. Suffering is optional.",
+      "author": "Haruki Murakami",
+      "source": "What I Talk About When I Talk About Running",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Literature"
+    },
+    {
+      "id": "com057",
+      "text": "You are not a drop in the ocean. You are the entire ocean in a drop.",
+      "author": "Rumi",
+      "source": "Poetry",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Poetry"
+    },
+    {
+      "id": "com058",
+      "text": "The only way to make sense out of change is to plunge into it, move with it, and join the dance.",
+      "author": "Alan Watts",
+      "source": "The Wisdom of Insecurity",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "com059",
+      "text": "In the midst of winter, I found there was, within me, an invincible summer.",
+      "author": "Albert Camus",
+      "source": "Return to Tipasa",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "com060",
+      "text": "You are allowed to be both a masterpiece and a work in progress simultaneously.",
+      "author": "Sophia Bush",
+      "source": "Interview",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com061",
+      "text": "What you seek is seeking you.",
+      "author": "Rumi",
+      "source": "Poetry",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Poetry"
+    },
+    {
+      "id": "com062",
+      "text": "Wherever you are, be all there.",
+      "author": "Jim Elliot",
+      "source": "Journals",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "com063",
+      "text": "Be kind to yourself. We often need the kindness the most when we feel we deserve it the least.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com064",
+      "text": "Your heart knows the way. Run in that direction.",
+      "author": "Rumi",
+      "source": "Poetry",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Poetry"
+    },
+    {
+      "id": "com065",
+      "text": "The art of being wise is the art of knowing what to overlook.",
+      "author": "William James",
+      "source": "The Principles of Psychology",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "com066",
+      "text": "Sometimes letting things go is an act of far greater power than defending or hanging on.",
+      "author": "Eckhart Tolle",
+      "source": "The Power of Now",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Spirituality"
+    },
+    {
+      "id": "com067",
+      "text": "The best way out is always through.",
+      "author": "Robert Frost",
+      "source": "Poetry",
+      "emotionTags": ["Comfort"],
+      "category": "Poetry"
+    },
+    {
+      "id": "com068",
+      "text": "Inner peace begins the moment you choose not to allow another person or event to control your emotions.",
+      "author": "Pema Chödrön",
+      "source": "The Places That Scare You",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Mindfulness"
+    },
+    {
+      "id": "com069",
+      "text": "You don't have to justify your feelings. They exist. And they're valid.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com070",
+      "text": "The greatest weapon against stress is our ability to choose one thought over another.",
+      "author": "William James",
+      "source": "Psychology Lectures",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "com071",
+      "text": "Sometimes you have to disconnect to stay connected. Remember the old days when you had eye contact during a conversation?",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com072",
+      "text": "It is not the mountain we conquer but ourselves.",
+      "author": "Edmund Hillary",
+      "source": "Interview",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Sports"
+    },
+    {
+      "id": "com073",
+      "text": "Be the love you never received.",
+      "author": "Rune Lazuli",
+      "source": "Poetry",
+      "emotionTags": ["Comfort"],
+      "category": "Poetry"
+    },
+    {
+      "id": "com074",
+      "text": "When you come to the end of your rope, tie a knot and hang on.",
+      "author": "Franklin D. Roosevelt",
+      "source": "Speech",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Leadership"
+    },
+    {
+      "id": "com075",
+      "text": "Ride the energy of your own unique spirit.",
+      "author": "Gabrielle Roth",
+      "source": "Maps to Ecstasy",
+      "emotionTags": ["Comfort", "Joy"],
+      "category": "Spirituality"
+    },
+    {
+      "id": "com076",
+      "text": "You have been assigned this mountain to show others it can be moved.",
+      "author": "Mel Robbins",
+      "source": "The 5 Second Rule",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Psychology"
+    },
+    {
+      "id": "com077",
+      "text": "Do not judge me by my successes, judge me by how many times I fell down and got back up again.",
+      "author": "Nelson Mandela",
+      "source": "Speeches",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Leadership"
+    },
+    {
+      "id": "com078",
+      "text": "Sometimes we need to take a break from everyone and everything to find out who we are.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com079",
+      "text": "Fall seven times, stand up eight.",
+      "author": "Japanese Proverb",
+      "source": "Ancient Wisdom",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Eastern Philosophy"
+    },
+    {
+      "id": "com080",
+      "text": "Sometimes our light goes out but is blown into flame by another human being. Each of us owes deepest thanks to those who have rekindled this light.",
+      "author": "Albert Schweitzer",
+      "source": "Philosophy Writings",
+      "emotionTags": ["Comfort", "Gratitude"],
+      "category": "Philosophy"
+    },
+    {
+      "id": "com081",
+      "text": "Breathe. You're going to be okay. Breathe and remember that you've been in this place before. You've been this uncomfortable and anxious and scared, and you've survived.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com082",
+      "text": "The cave you fear to enter holds the treasure you seek.",
+      "author": "Joseph Campbell",
+      "source": "The Hero with a Thousand Faces",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Psychology"
+    },
+    {
+      "id": "com083",
+      "text": "Your present circumstances don't determine where you can go; they merely determine where you start.",
+      "author": "Nido Qubein",
+      "source": "Motivational Speech",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Business"
+    },
+    {
+      "id": "com084",
+      "text": "Don't be afraid of your fears. They're not there to scare you. They're there to let you know that something is worth it.",
+      "author": "C. JoyBell C.",
+      "source": "Writings",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com085",
+      "text": "The only thing that makes life possible is permanent, intolerable uncertainty; not knowing what comes next.",
+      "author": "Ursula K. Le Guin",
+      "source": "The Left Hand of Darkness",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Literature"
+    },
+    {
+      "id": "com086",
+      "text": "You're not a mess. You're brave for trying.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com087",
+      "text": "Progress, not perfection.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com088",
+      "text": "The soul always knows what to do to heal itself. The challenge is to silence the mind.",
+      "author": "Caroline Myss",
+      "source": "Anatomy of the Spirit",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Spirituality"
+    },
+    {
+      "id": "com089",
+      "text": "Your journey has molded you for your greater good, and it was exactly what it needed to be.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com090",
+      "text": "Sometimes you need those bad days to help you appreciate the good ones.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com091",
+      "text": "It's okay to live a life others don't understand.",
+      "author": "Jenna Woginrich",
+      "source": "Blog",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com092",
+      "text": "You can't stop the waves, but you can learn to surf.",
+      "author": "Jon Kabat-Zinn",
+      "source": "Wherever You Go, There You Are",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Mindfulness"
+    },
+    {
+      "id": "com093",
+      "text": "Trust the timing of your life.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com094",
+      "text": "You are not required to set yourself on fire to keep other people warm.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com095",
+      "text": "Give yourself the same care and attention that you give to others and watch yourself bloom.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com096",
+      "text": "Sometimes the smallest things take up the most room in your heart.",
+      "author": "Winnie the Pooh",
+      "source": "A.A. Milne Stories",
+      "emotionTags": ["Comfort", "Gratitude"],
+      "category": "Literature"
+    },
+    {
+      "id": "com097",
+      "text": "Just because no one else can heal or do your inner work for you doesn't mean you can, should, or need to do it alone.",
+      "author": "Lisa Olivera",
+      "source": "Therapy Writings",
+      "emotionTags": ["Comfort"],
+      "category": "Psychology"
+    },
+    {
+      "id": "com098",
+      "text": "Your value doesn't decrease based on someone's inability to see your worth.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort", "Reflection"],
+      "category": "Modern Wisdom"
+    },
+    {
+      "id": "com099",
+      "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
+      "author": "Rumi",
+      "source": "Poetry",
+      "emotionTags": ["Comfort", "Hope"],
+      "category": "Poetry"
+    },
+    {
+      "id": "com100",
+      "text": "Recovery is not a race. You don't have to feel guilty if it takes you longer than you thought it would.",
+      "author": "Unknown",
+      "source": "Popular Wisdom",
+      "emotionTags": ["Comfort"],
+      "category": "Modern Wisdom"
+    }
+  ]
+}
